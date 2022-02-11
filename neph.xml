@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Skim-sci</title>
+    <link>https://skimsci.netlify.app/</link>
+    <atom:link href="https://skimsci.netlify.app/neph.xml" rel="self" type="application/rss+xml"/>
+    <description>A convenient weekly summary of key journal articles
+</description>
+    <image>
+      <title>Skim-sci</title>
+      <url>https://skimsci.netlify.app/fav.png</url>
+      <link>https://skimsci.netlify.app/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fri Feb 11 2022</title>
+      <link>https://skimsci.netlify.app/neph/02-11-2022</link>
+      <description>52 articles - From Saturday Feb 05 2022 to Friday Feb 11 2022</description>
+      <guid>https://skimsci.netlify.app/neph/02-11-2022</guid>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fri Feb 04 2022</title>
+      <link>https://skimsci.netlify.app/neph/02-04-2022</link>
+      <description>40 articles - From Saturday Jan 29 2022 to Friday Feb 04 2022</description>
+      <guid>https://skimsci.netlify.app/neph/02-04-2022</guid>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fri Jan 28 2022</title>
+      <link>https://skimsci.netlify.app/neph/01-28-2022</link>
+      <description>43 articles - From Saturday Jan 22 2022 to Friday Jan 28 2022</description>
+      <guid>https://skimsci.netlify.app/neph/01-28-2022</guid>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fri Jan 21 2022</title>
+      <link>https://skimsci.netlify.app/neph/01-21-2022</link>
+      <description>35 articles - From Saturday Jan 15 2022 to Friday Jan 21 2022</description>
+      <guid>https://skimsci.netlify.app/neph/01-21-2022</guid>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fri Jan 14 2022</title>
+      <link>https://skimsci.netlify.app/neph/01-14-2022</link>
+      <description>35 articles - From Saturday Jan 08 2022 to Friday Jan 14 2022</description>
+      <guid>https://skimsci.netlify.app/neph/01-14-2022</guid>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fri Jan 07 2022</title>
+      <link>https://skimsci.netlify.app/neph/01-07-2022</link>
+      <description>44 articles - From Saturday Jan 01 2022 to Friday Jan 07 2022</description>
+      <guid>https://skimsci.netlify.app/neph/01-07-2022</guid>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fri Dec 31 2021</title>
+      <link>https://skimsci.netlify.app/neph/12-31-2021</link>
+      <description>52 articles - From Saturday Dec 25 2021 to Friday Dec 31 2021</description>
+      <guid>https://skimsci.netlify.app/neph/12-31-2021</guid>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
