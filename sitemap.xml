@@ -18,19 +18,23 @@
   </url>
   <url>
     <loc>https://skimsci.netlify.app/</loc>
-    <lastmod>2022-02-11T16:32:38-05:00</lastmod>
+    <lastmod>2022-02-12T15:51:53-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/neph.html</loc>
     <lastmod>2022-02-11T16:54:27-05:00</lastmod>
   </url>
   <url>
+    <loc>https://skimsci.netlify.app/rheum.html</loc>
+    <lastmod>2022-02-12T15:58:27-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://skimsci.netlify.app/updates.html</loc>
-    <lastmod>2022-02-04T14:24:03-05:00</lastmod>
+    <lastmod>2022-02-11T17:23:23-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi/02-11-2022/</loc>
-    <lastmod>2022-02-11T16:44:50-05:00</lastmod>
+    <lastmod>2022-02-12T16:50:28-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi/02-04-2022/</loc>
@@ -111,5 +115,33 @@
   <url>
     <loc>https://skimsci.netlify.app/neph/12-31-2021/</loc>
     <lastmod>2022-02-11T16:23:03-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/02-11-2022/</loc>
+    <lastmod>2022-02-12T16:55:33-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/02-04-2022/</loc>
+    <lastmod>2022-02-12T16:55:03-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/01-28-2022/</loc>
+    <lastmod>2022-02-12T16:54:30-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/01-21-2022/</loc>
+    <lastmod>2022-02-12T16:53:53-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/01-14-2022/</loc>
+    <lastmod>2022-02-12T16:53:17-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/01-07-2022/</loc>
+    <lastmod>2022-02-12T16:52:43-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/12-31-2021/</loc>
+    <lastmod>2022-02-12T16:52:08-05:00</lastmod>
   </url>
 </urlset>
