@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi2.html</loc>
-    <lastmod>2022-02-25T00:06:15-05:00</lastmod>
+    <lastmod>2022-02-25T00:13:35-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/hema.html</loc>
@@ -35,6 +35,10 @@
   <url>
     <loc>https://skimsci.netlify.app/updates.html</loc>
     <lastmod>2022-02-11T17:23:23-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/gi/03-04-2022/</loc>
+    <lastmod>2022-03-04T10:44:49-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi/02-25-2022/</loc>
@@ -73,8 +77,16 @@
     <lastmod>2022-02-09T17:39:28-05:00</lastmod>
   </url>
   <url>
+    <loc>https://skimsci.netlify.app/gi2/03-04-2022/</loc>
+    <lastmod>2022-03-04T10:45:51-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://skimsci.netlify.app/gi2/02-25-2022/</loc>
     <lastmod>2022-02-25T00:03:27-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/hema/03-04-2022/</loc>
+    <lastmod>2022-03-04T10:46:55-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/hema/02-25-2022/</loc>
@@ -113,6 +125,10 @@
     <lastmod>2022-02-09T18:16:43-05:00</lastmod>
   </url>
   <url>
+    <loc>https://skimsci.netlify.app/neph/03-04-2022/</loc>
+    <lastmod>2022-03-04T10:47:55-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://skimsci.netlify.app/neph/02-25-2022/</loc>
     <lastmod>2022-02-25T00:04:37-05:00</lastmod>
   </url>
@@ -147,6 +163,10 @@
   <url>
     <loc>https://skimsci.netlify.app/neph/12-31-2021/</loc>
     <lastmod>2022-02-11T16:23:03-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://skimsci.netlify.app/rheum/03-04-2022/</loc>
+    <lastmod>2022-03-04T10:49:15-05:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/rheum/02-25-2022/</loc>
