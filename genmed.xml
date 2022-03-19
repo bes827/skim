@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Skim-sci</title>
+    <link>https://skimsci.netlify.app/</link>
+    <atom:link href="https://skimsci.netlify.app/genmed.xml" rel="self" type="application/rss+xml"/>
+    <description>A convenient weekly summary of key journal articles
+</description>
+    <image>
+      <title>Skim-sci</title>
+      <url>https://skimsci.netlify.app/fav.png</url>
+      <link>https://skimsci.netlify.app/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fri Mar 18 2022</title>
+      <link>https://skimsci.netlify.app/genmed/03-18-2022</link>
+      <description>85 articles - From Saturday Mar 12 2022 to Friday Mar 18 2022</description>
+      <guid>https://skimsci.netlify.app/genmed/03-18-2022</guid>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
