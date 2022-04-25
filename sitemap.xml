@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://skimsci.netlify.app/dbsearch.html</loc>
-    <lastmod>2022-04-08T07:01:09-04:00</lastmod>
+    <lastmod>2022-04-15T16:27:30-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/feedback.html</loc>
@@ -29,6 +29,10 @@
     <lastmod>2022-02-04T18:07:40-05:00</lastmod>
   </url>
   <url>
+    <loc>https://skimsci.netlify.app/hypoth.html</loc>
+    <lastmod>2022-04-24T21:04:13-04:00</lastmod>
+  </url>
+  <url>
     <loc>https://skimsci.netlify.app/</loc>
     <lastmod>2022-03-18T23:39:26-04:00</lastmod>
   </url>
@@ -45,6 +49,10 @@
     <lastmod>2022-02-11T17:23:23-05:00</lastmod>
   </url>
   <url>
+    <loc>https://skimsci.netlify.app/genmed/04-22-2022/</loc>
+    <lastmod>2022-04-24T23:35:58-04:00</lastmod>
+  </url>
+  <url>
     <loc>https://skimsci.netlify.app/genmed/04-15-2022/</loc>
     <lastmod>2022-04-15T14:49:42-04:00</lastmod>
   </url>
@@ -53,8 +61,8 @@
     <lastmod>2022-04-08T06:31:33-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/genmed/04-01-2022/</loc>
-    <lastmod>2022-04-01T14:48:32-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/gi/04-22-2022/</loc>
+    <lastmod>2022-04-24T23:32:40-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi/04-15-2022/</loc>
@@ -65,8 +73,8 @@
     <lastmod>2022-04-08T06:28:01-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/gi/04-01-2022/</loc>
-    <lastmod>2022-04-01T14:42:50-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/gi2/04-22-2022/</loc>
+    <lastmod>2022-04-24T23:33:17-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi2/04-15-2022/</loc>
@@ -77,8 +85,8 @@
     <lastmod>2022-04-08T06:28:47-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/gi2/04-01-2022/</loc>
-    <lastmod>2022-04-01T14:43:57-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/hema/04-22-2022/</loc>
+    <lastmod>2022-04-24T23:34:01-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/hema/04-15-2022/</loc>
@@ -89,8 +97,8 @@
     <lastmod>2022-04-08T06:29:30-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/hema/04-01-2022/</loc>
-    <lastmod>2022-04-01T14:45:07-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/neph/04-22-2022/</loc>
+    <lastmod>2022-04-24T23:34:47-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/neph/04-15-2022/</loc>
@@ -101,8 +109,8 @@
     <lastmod>2022-04-08T06:30:22-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/neph/04-01-2022/</loc>
-    <lastmod>2022-04-01T14:46:10-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/rheum/04-22-2022/</loc>
+    <lastmod>2022-04-24T23:35:24-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/rheum/04-15-2022/</loc>
@@ -111,9 +119,5 @@
   <url>
     <loc>https://skimsci.netlify.app/rheum/04-08-2022/</loc>
     <lastmod>2022-04-08T06:30:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>https://skimsci.netlify.app/rheum/04-01-2022/</loc>
-    <lastmod>2022-04-01T14:47:20-04:00</lastmod>
   </url>
 </urlset>
