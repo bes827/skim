@@ -12,7 +12,14 @@
       <link>https://skimsci.netlify.app/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fri Jul 08 2022</title>
+      <link>https://skimsci.netlify.app/neph/07-08-2022</link>
+      <description>30 articles - From Friday Jul 01 2022 to Friday Jul 08 2022</description>
+      <guid>https://skimsci.netlify.app/neph/07-08-2022</guid>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fri Jul 01 2022</title>
       <link>https://skimsci.netlify.app/neph/07-01-2022</link>
@@ -26,13 +33,6 @@
       <description>57 articles - From Friday Jun 17 2022 to Friday Jun 24 2022</description>
       <guid>https://skimsci.netlify.app/neph/06-24-2022</guid>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fri Jun 17 2022</title>
-      <link>https://skimsci.netlify.app/neph/06-17-2022</link>
-      <description>18 articles - From Friday Jun 10 2022 to Friday Jun 17 2022</description>
-      <guid>https://skimsci.netlify.app/neph/06-17-2022</guid>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
