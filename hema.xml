@@ -12,7 +12,14 @@
       <link>https://skimsci.netlify.app/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fri Aug 26 2022</title>
+      <link>https://skimsci.netlify.app/hema/08-26-2022</link>
+      <description>85 articles - From Friday Aug 19 2022 to Friday Aug 26 2022</description>
+      <guid>https://skimsci.netlify.app/hema/08-26-2022</guid>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fri Aug 19 2022</title>
       <link>https://skimsci.netlify.app/hema/08-19-2022</link>
@@ -26,13 +33,6 @@
       <description>77 articles - From Friday Aug 05 2022 to Friday Aug 12 2022</description>
       <guid>https://skimsci.netlify.app/hema/08-12-2022</guid>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fri Aug 05 2022</title>
-      <link>https://skimsci.netlify.app/hema/08-05-2022</link>
-      <description>76 articles - From Friday Jul 29 2022 to Friday Aug 05 2022</description>
-      <guid>https://skimsci.netlify.app/hema/08-05-2022</guid>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
