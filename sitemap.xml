@@ -49,6 +49,10 @@
     <lastmod>2022-02-11T17:23:23-05:00</lastmod>
   </url>
   <url>
+    <loc>https://skimsci.netlify.app/genmed/10-14-2022/</loc>
+    <lastmod>2022-10-16T06:44:17-04:00</lastmod>
+  </url>
+  <url>
     <loc>https://skimsci.netlify.app/genmed/10-07-2022/</loc>
     <lastmod>2022-10-07T19:58:45-04:00</lastmod>
   </url>
@@ -57,8 +61,8 @@
     <lastmod>2022-09-30T15:45:31-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/genmed/09-23-2022/</loc>
-    <lastmod>2022-09-24T01:45:53-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/gi/10-14-2022/</loc>
+    <lastmod>2022-10-16T06:40:38-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi/10-07-2022/</loc>
@@ -69,8 +73,8 @@
     <lastmod>2022-09-30T15:40:22-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/gi/09-23-2022/</loc>
-    <lastmod>2022-09-24T01:40:43-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/gi2/10-14-2022/</loc>
+    <lastmod>2022-10-16T06:41:18-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/gi2/10-07-2022/</loc>
@@ -81,8 +85,8 @@
     <lastmod>2022-09-30T15:41:32-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/gi2/09-23-2022/</loc>
-    <lastmod>2022-09-24T01:41:50-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/hema/10-14-2022/</loc>
+    <lastmod>2022-10-16T06:42:01-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/hema/10-07-2022/</loc>
@@ -93,8 +97,8 @@
     <lastmod>2022-09-30T15:42:29-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/hema/09-23-2022/</loc>
-    <lastmod>2022-09-24T01:43:03-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/neph/10-14-2022/</loc>
+    <lastmod>2022-10-16T06:42:43-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/neph/10-07-2022/</loc>
@@ -105,8 +109,8 @@
     <lastmod>2022-09-30T15:43:37-04:00</lastmod>
   </url>
   <url>
-    <loc>https://skimsci.netlify.app/neph/09-23-2022/</loc>
-    <lastmod>2022-09-24T01:44:11-04:00</lastmod>
+    <loc>https://skimsci.netlify.app/rheum/10-14-2022/</loc>
+    <lastmod>2022-10-16T06:43:31-04:00</lastmod>
   </url>
   <url>
     <loc>https://skimsci.netlify.app/rheum/10-07-2022/</loc>
@@ -115,9 +119,5 @@
   <url>
     <loc>https://skimsci.netlify.app/rheum/09-30-2022/</loc>
     <lastmod>2022-09-30T15:44:31-04:00</lastmod>
-  </url>
-  <url>
-    <loc>https://skimsci.netlify.app/rheum/09-23-2022/</loc>
-    <lastmod>2022-09-24T01:45:08-04:00</lastmod>
   </url>
 </urlset>
