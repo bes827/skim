@@ -12,7 +12,14 @@
       <link>https://skimsci.netlify.app/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fri Jan 13 2023</title>
+      <link>https://skimsci.netlify.app/rheum/01-13-2023</link>
+      <description>30 articles - From Friday Jan 06 2023 to Friday Jan 13 2023</description>
+      <guid>https://skimsci.netlify.app/rheum/01-13-2023</guid>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fri Jan 06 2023</title>
       <link>https://skimsci.netlify.app/rheum/01-06-2023</link>
@@ -26,13 +33,6 @@
       <description>75 articles - From Friday Dec 23 2022 to Friday Dec 30 2022</description>
       <guid>https://skimsci.netlify.app/rheum/12-30-2022</guid>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fri Dec 23 2022</title>
-      <link>https://skimsci.netlify.app/rheum/12-23-2022</link>
-      <description>44 articles - From Friday Dec 16 2022 to Friday Dec 23 2022</description>
-      <guid>https://skimsci.netlify.app/rheum/12-23-2022</guid>
-      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
