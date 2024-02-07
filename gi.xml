@@ -12,7 +12,14 @@
       <link>https://skimsci.netlify.app/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>2024-01-12</lastBuildDate>
+    <lastBuildDate>2024-02-02</lastBuildDate>
+    <item>
+      <title>Fri Feb 02 2024</title>
+      <link>https://skimsci.netlify.app/gi/02-02-2024</link>
+      <description>95 articles - From Friday Jan 26 2024 to Friday Feb 02 2024</description>
+      <guid>https://skimsci.netlify.app/gi/02-02-2024</guid>
+      <pubDate>2024-02-02</pubDate>
+    </item>
     <item>
       <title>Fri Jan 12 2024</title>
       <link>https://skimsci.netlify.app/gi/01-12-2024</link>
@@ -33,13 +40,6 @@
       <description>258 articles - From Friday Dec 22 2023 to Friday Dec 29 2023</description>
       <guid>https://skimsci.netlify.app/gi/12-29-2023</guid>
       <pubDate>2023-12-29</pubDate>
-    </item>
-    <item>
-      <title>Fri Dec 22 2023</title>
-      <link>https://skimsci.netlify.app/gi/12-22-2023</link>
-      <description>131 articles - From Friday Dec 15 2023 to Friday Dec 22 2023</description>
-      <guid>https://skimsci.netlify.app/gi/12-22-2023</guid>
-      <pubDate>2023-12-22</pubDate>
     </item>
   </channel>
 </rss>
