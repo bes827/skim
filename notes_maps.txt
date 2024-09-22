@@ -1,0 +1,2346 @@
+
+
+Chronic Kidney Disease Vaccination Management
+    |-- Pneumococcal Vaccination
+    |      |-- Recommended Vaccines
+    |      |      |-- 20-valent pneumococcal conjugate vaccine (PCV20)
+    |      |      |-- 15-valent pneumococcal conjugate vaccine (PCV15) + 23-valent pneumococcal polysaccharide vaccine (PPSV23)
+    |      |
+    |      |-- Administration Guidelines
+    |      |      |-- For adults aged 19-64 with CKD: ***
+    |      |      |      |-- PCV20 or 
+    |      |      |      |-- PCV15 followed by PPSV23 (8 weeks later)
+    |
+    |-- Influenza Vaccination
+    |      |-- Indication
+    |      |      |-- Increased risk for influenza-related morbidity and mortality in CKD/ESKD
+    |      |
+    |      |-- Recommendation
+    |      |      |-- Annual influenza vaccine
+    |      |      |-- Reduces mortality and hospitalizations related to influenza
+    |
+    |-- Other Vaccinations
+    |      |-- Hepatitis A Vaccine
+    |      |      |-- Indicated for:
+    |      |      |      |-- Travel to endemic areas
+    |      |      |      |-- Adults at risk for HAV infection
+    |      |      |      |-- Adults requesting protection without risk factors
+    |      |
+    |      |-- Herpes Zoster Vaccine
+    |      |      |-- Indicated for patients >50 years
+    |      |
+    |      |-- Tetanus Toxoid, Diphtheria Toxoid, and Pertussis
+    |      |      |-- Administer according to general population guidelines
+    |
+    |-- Hepatitis B Vaccination
+    |      |-- Indication
+    |      |      |-- Recommended for CKD patients not already immune
+    |      |      |-- Important for patients on hemodialysis and blood transfusions
+    |      |
+    |      |-- Administration
+    |      |      |-- Higher dose needed for enhanced immune response
+    |      |
+    |      |-- Serology Consideration
+    |      |      |-- If immune to hepatitis B, vaccination not indicated
+
+
+
+###################################################
+
+
+Contrast-Associated Acute Tubular Necrosis (ATN)
+    |-- Diagnosis
+    |      |-- Contrast-Associated Nephropathy (CAN)
+    |      |      |-- Characterized by 
+    |      |      |      |-- Increase in serum creatinine 
+    |      |      |      |      |-- 24 to 48 hours after contrast exposure
+    |      |      |-- Risk Factors
+    |      |      |      |-- Chronic kidney injury
+    |      |      |      |-- Type 2 diabetes mellitus
+    |      |      |      |-- Large volume contrast exposure
+    |      |      |-- Laboratory Findings
+    |      |      |      |-- BUN-Creatinine Ratio: 15:1
+    |      |      |      |-- Urine Specific Gravity: 1.010 (isosthenuria)
+    |      |      |      |-- Urine Sodium: >40 mEq/L (40 mmol/L)
+    |      |      |      |-- Urine Sediment: Few granular casts
+    |      |      |      |-- Note: Pigmented granular casts not required for diagnosis
+    |
+    |-- Differential Diagnosis
+    |      |-- Atheroembolic-Induced Acute Kidney Injury (Option B)
+    |      |      |-- Characterized by 
+    |      |      |      |-- Slow, stuttering rise in serum creatinine
+    |      |      |      |-- Delayed onset (days to weeks)
+    |      |      |      |-- Stigmata of atheroemboli (e.g., livedo reticularis)
+    |      |-- Hemolytic Uremic Syndrome (Option C)
+    |      |      |-- Associated with Clopidogrel
+    |      |      |-- Characterized by 
+    |      |      |      |-- Profound decrease in hemoglobin and platelet counts
+    |      |      |-- Anemia and thrombocytopenia in this patient are modest
+    |      |-- Prerenal Acute Kidney Injury (Option D)
+    |      |      |-- Unlikely due to 
+    |      |      |      |-- Absence of hypovolemia or reduced cardiac output
+    |      |      |      |-- Typical findings: 
+    |      |      |            |-- BUN-Creatinine Ratio: >20:1
+    |      |      |            |-- Urine Specific Gravity: >1.020
+    |      |      |            |-- Normal microscopic urinalysis or hyaline casts
+
+
+
+###################################################
+
+
+Salicylate Toxicity Treatment
+    |-- Key Clinical Manifestations
+    |      |-- Primary respiratory alkalosis
+    |      |-- Mixed acid-base disorders
+    |
+    |-- Treatment Options
+    |      |-- Intravenous Sodium Bicarbonate (Option D)
+    |      |      |-- Mechanism
+    |      |      |      |-- Increases urinary elimination of salicylate
+    |      |      |      |-- Goal: Urine pH > 7.5
+    |      |      |      |-- Protects against CNS toxicity
+    |      |      |
+    |      |      |-- Serum pH Maintenance
+    |      |      |      |-- Target: 7.50 to 7.55
+    |      |      |      |-- Prevents CNS accumulation of salicylic acid
+    |      |      |
+    |      |      |-- Pathogenesis
+    |      |      |      |-- Aspirin converts to salicylic acid
+    |      |      |      |-- Acidosis drives salicylic acid influx into CNS
+    |      |      |      |-- Alkalinization traps salicylic acid in extracellular fluid
+    |      |      |      |-- Urinary alkalinization traps salicylic acid in renal tubules
+    |
+    |      |-- Acetazolamide (Option A)
+    |      |      |-- Not indicated for salicylate toxicity
+    |      |      |-- Mechanism
+    |      |      |      |-- Carbonic anhydrase inhibitor
+    |      |      |      |-- Alkalinizes urine but causes mild systemic acidosis
+    |      |      |      |-- Drives salicylate into CNS
+    |
+    |      |-- Hemodialysis (Option B)
+    |      |      |-- Not indicated for this patient
+    |      |      |-- Indications
+    |      |      |      |-- Serum salicylate levels > 90-100 µg/mL (acute)
+    |      |      |      |-- Serum salicylate levels > 60 µg/mL (chronic)
+    |      |      |      |-- Acute kidney injury, cerebral/pulmonary edema
+    |      |      |      |-- Refractory acidemia, severe mental status alteration
+    |
+    |      |-- Forced Diuresis with IV 0.9% Saline (Option C)
+    |             |-- No role in managing salicylate toxicity
+    |             |-- Does not increase salicylate elimination without alkalinization
+
+
+
+###################################################
+
+
+Lupus Nephritis Diagnosis
+    |-- Definitive Diagnostic Test
+    |      |-- Kidney Biopsy
+    |      |      |-- Crucial for determining treatment
+    |      |      |-- Histologic findings guide therapy
+    |
+    |-- Classification Criteria (2019 EULAR/ACR)
+    |      |-- Entry Criteria
+    |      |      |-- Positive Antinuclear Antibody (ANA) 
+    |      |      |-- At least one clinical criterion
+    |      |      |-- Accumulation of ≥10 points
+    |      |      |-- Sensitivity: 96.1%, Specificity: 93.4%
+    |      |
+    |      |-- Clinical Points
+    |      |      |-- Acute cutaneous lupus erythematosus (2 points)
+    |      |      |-- Low serum complement levels (8 points)
+    |      |      |-- Total Points: 10
+    |
+    |-- Pathology of Lupus Nephritis
+    |      |-- Immune Complex-Mediated Glomerulonephritis
+    |      |      |-- Six distinct classes of disease
+    |
+    |-- Incorrect Diagnostic Tests
+    |      |-- Erythrocyte Sedimentation Rate (ESR)
+    |      |      |-- Measures disease activity
+    |      |      |-- Does not determine class of lupus nephritis
+    |
+    |      |-- Extractable Nuclear Antigen (ENA) Panel
+    |      |      |-- Tests for antibodies (e.g., anti-Smith, anti-Ro/SSA)
+    |      |      |-- Not required for SLE diagnosis
+    |      |      |-- Results do not influence treatment compared to kidney biopsy
+    |
+    |      |-- Skin Biopsy
+    |      |      |-- Indicated only when clinical diagnosis is in doubt
+    |      |      |-- Classic malar rash and positive immunologic findings make it unnecessary
+    |      |      |-- Does not inform kidney manifestations or guide therapy
+
+
+
+###################################################
+
+
+Renal Replacement Therapy Education for End-Stage Kidney Disease
+    |-- Key Point
+    |      |-- Refer patients with eGFR <30 mL/min/1.73 m² to RRT education
+    |
+    |-- RRT Education Importance
+    |      |-- Empowers informed decision-making
+    |      |-- Options include:
+    |      |      |-- In-center hemodialysis
+    |      |      |-- Home hemodialysis
+    |      |      |-- Peritoneal dialysis
+    |      |      |-- Kidney transplantation
+    |      |      |-- Non-dialytic medical management
+    |
+    |-- Benefits of Early RRT Education
+    |      |-- Increases likelihood of choosing home modality
+    |      |-- Increases chances of being listed for kidney transplant
+    |      |-- Potential mortality benefit
+    |
+    |-- Evaluation for AVF Placement (Option A)
+    |      |-- Indicated after decision for hemodialysis
+    |      |-- Requires arm-access evaluation
+    |      |-- AVF placement should be done well in advance for maturation
+    |
+    |-- Dialysis Initiation (Option B)
+    |      |-- No benefit in starting dialysis for asymptomatic patients
+    |      |-- Watchful waiting preferred until symptoms/metabolic abnormalities arise
+    |
+    |-- Kidney Transplant Referral (Option C)
+    |      |-- Refer when eGFR is 15-29 mL/min/1.73 m² ***
+    |      |-- Early referral improves outcomes for preemptive transplants
+    |      |-- Allows time for suitable living donor identification
+    |      |-- Essential for deceased-donor waiting list if no living donor is available
+
+
+
+###################################################
+
+
+Calciphylaxis in End-Stage Kidney Disease
+    |-- Definition
+    |      |-- Calciphylaxis (Calcific Uremic Arteriolopathy)
+    |      |      |-- Characterized by calcifications in dermal arterioles
+    |      |      |-- Results in painful ischemic skin lesions
+    |
+    |-- Epidemiology
+    |      |-- Increasingly recognized complication of end-stage kidney disease (ESKD)
+    |      |-- High risk of mortality due to secondary infection and sepsis
+    |
+    |-- Pathogenesis
+    |      |-- Pathologic calcifications in dermal arterioles
+    |      |      |-- Leads to thrombosis, ischemia, and necrosis of skin
+    |
+    |-- Patient Presentation
+    |      |-- Dialysis-dependent ESKD patient
+    |      |      |-- Painful ulcer on left calf with central necrosis
+    |      |      |-- Skin biopsy shows vascular calcification
+    |
+    |-- Associated Conditions
+    |      |-- Severe secondary hyperparathyroidism
+    |      |-- Elevated calcium-phosphorous product
+    |      |-- Risk in patients with normalized serum calcium and phosphate levels
+    |
+    |-- Treatment Options
+    |      |-- No FDA-approved treatments
+    |      |-- Calcimimetics
+    |      |      |-- Used to suppress parathyroid hormone
+    |      |      |-- Fewer cases of calciphylaxis in treated patients (data from large study)
+    |      |-- Sodium thiosulfate
+    |      |      |-- Anti-inflammatory agent used routinely for calciphylaxis
+    |
+    |-- Differential Diagnosis
+    |      |-- Leukocytoclastic Vasculitis (Option B)
+    |      |      |-- Presents with palpable purpura, not rapidly advancing ulcer
+    |      |      |-- Biopsy shows perivenular and intramural inflammatory infiltrates
+    |
+    |      |-- Venous Stasis Ulcers (Option C)
+    |      |      |-- Associated with venous insufficiency signs (edema, varicosities)
+    |      |      |-- Ulcers are irregularly shaped and rarely necrotic
+    |      |      |-- Sudden appearance of necrotic ulcer not indicative of venous ulcer
+    |
+    |      |-- Warfarin-Related Necrosis (Option D)
+    |      |      |-- Expected with initiation of warfarin, often with large loading doses
+    |      |      |-- Would show thrombosis, not calcifications in underlying vessel walls
+
+
+
+###################################################
+
+
+Fibromuscular Dysplasia Diagnosis
+    |-- Key Characteristics
+    |      |-- Demographics
+    |      |      |-- Typically occurs in young persons
+    |      |      |-- Predominantly affects women <35 years of age
+    |      |
+    |      |-- Clinical Presentation
+    |      |      |-- Abrupt onset of hypertension
+    |      |      |-- Lateralizing abdominal bruit
+
+    |-- Diagnostic Evaluation
+    |      |-- Initial Test
+    |      |      |-- Renal artery CT angiography (CTA)
+    |      |
+    |      |-- Alternative Tests
+    |      |      |-- Contrast-enhanced magnetic resonance angiography (MRA) - if CTA is contraindicated
+    |      |      |-- Duplex ultrasound - in specialized centers
+
+    |-- Pathophysiology
+    |      |-- Noninflammatory, nonatherosclerotic renovascular disease
+    |      |-- Affects medium-sized arteries
+    |      |-- Etiology is unknown
+
+    |-- Complications
+    |      |-- Risk of aneurysm formation and/or dissection
+    |      |      |-- Most commonly in renal, carotid, and intracranial arteries
+    |      |
+    |      |-- Recommended Assessments
+    |      |      |-- One-time assessment for intracranial aneurysm with brain CTA or MRA
+
+    |-- Incorrect Diagnostic Options
+    |      |-- Plasma Aldosterone Concentration/Plasma Renin Activity Ratio (Option A)
+    |      |      |-- Not indicated due to absence of hypokalemia or metabolic alkalosis
+    |      |      |-- Cannot explain abdominal bruit
+    |      |
+    |      |-- Plasma Fractionated Metanephrines (Option B)
+    |      |      |-- Less likely diagnosis due to absence of episodic symptoms (palpitations, headaches, tachycardia)
+    |      |      |-- Cannot explain abdominal bruit
+    |      |
+    |      |-- Urine Albumin-Creatinine Ratio (Option D)
+    |      |      |-- Not indicated as urinalysis does not show blood or signs of glomerulonephritis
+
+
+
+###################################################
+
+
+Type 4 Renal Tubular Acidosis (RTA)
+    |-- Definition
+    |      |-- Hyperkalemic distal renal tubular acidosis
+    |
+    |-- Key Features
+    |      |-- Hyperkalemia
+    |      |-- Normal anion gap metabolic acidosis
+    |      |-- Urine pH < 5.5
+    |
+    |-- Common Causes
+    |      |-- Diabetes mellitus
+    |      |-- Aldosterone deficiency
+    |      |      |-- Primary adrenal insufficiency (Addison disease)
+    |      |      |-- Hyporeninemic hypoaldosteronism
+    |      |           |-- More common cause
+    |      |           |-- Associated with various kidney diseases
+    |      |-- Aldosterone resistance
+    |      |      |-- Tubulointerstitial disease
+    |      |      |      |-- Urinary obstruction
+    |      |      |      |-- Sickle cell disease
+    |      |      |      |-- Medullary cystic kidney disease
+    |      |      |      |-- Kidney transplant rejection
+    |      |-- Drug-induced
+    |      |      |-- ACE inhibitors
+    |      |      |-- Angiotensin receptor blockers
+    |      |      |-- Heparin
+    |      |      |-- NSAIDs
+    |
+    |-- Pathogenesis
+    |      |-- Positive urine anion gap
+    |      |      |-- [Urine Sodium + Urine Potassium] - Urine Chloride
+    |      |      |-- Reduced acid excretion (ammonium and chloride)
+    |      |      |-- Decreased ammonia production due to hyperkalemia
+    |      |      |-- Low urine pH (< 5.5) from inadequate ammonia buffering
+    |
+    |-- Treatment
+    |      |-- Focus on correcting underlying cause
+    |
+    |-- Differential Diagnosis
+    |      |-- Nonselective β-blockers (e.g., atenolol)
+    |      |      |-- Modest increase in serum potassium
+    |      |      |-- Do not cause metabolic acidosis
+    |      |
+    |      |-- Chronic kidney disease
+    |      |      |-- Hyperkalemia and acidosis develop with GFR < 40 mL/min/1.73 m²
+    |      |      |-- Hyperkalemia usually not present until GFR < 30 mL/min/1.73 m²
+    |      |
+    |      |-- Diarrhea
+    |      |      |-- Associated with normal anion gap metabolic acidosis
+    |      |      |-- Negative urine anion gap
+    |
+    |      |-- Type 1 RTA (hypokalemic distal)
+    |             |-- Distal tubular defect
+    |             |-- Impaired hydrogen ion excretion
+    |             |-- Usually associated with hypokalemia and urine pH > 5.5
+
+
+
+###################################################
+
+
+Acute Tubular Necrosis (ATN) due to Rhabdomyolysis
+    |-- Key Points
+    |      |-- Associated Findings
+    |      |      |-- Elevated Serum Creatinine
+    |      |      |-- Elevated Creatine Kinase (CK) Levels
+    |      |      |-- Possible Electrolyte Imbalances
+    |      |      |      |-- Hyperkalemia
+    |      |      |      |-- Hypocalcemia
+    |      |      |      |-- Hyperphosphatemia
+    |      |      |      |-- Hyperuricemia
+    |      |      |-- Increased Lactate Dehydrogenase
+    |      |      |-- Metabolic Acidosis
+    |      |
+    |      |-- Urinary Findings
+    |      |      |-- Amorphous Tubular Debris
+    |      |      |-- Heavily Pigmented Granular Casts
+    |      |      |-- Fractional Excretion of Sodium <1%***
+    |      |      |-- Myoglobinuria
+    |      |      |-- Urine Dipstick Positive for Blood
+    |      |      |-- Absence of Significant Erythrocytes on Microscopy
+    |
+    |-- Pathogenesis
+    |      |-- Direct Toxic Effects of Myoglobin
+    |      |-- Oxygen-Free Radical Production
+    |      |-- Local Renal Vasoconstriction
+    |
+    |-- Risk Factors
+    |      |-- Extreme Physical Exertion
+    |      |-- Inadequately Conditioned Individuals
+    |      |-- Conditions Promoting Rapid Fluid Loss
+    |
+    |-- Diagnosis Criteria
+    |      |-- Serum CK Levels >5000 U/L
+    |
+    |-- Differential Diagnosis
+    |      |-- Immune-Mediated Necrotizing Myopathy (Option A)
+    |      |      |-- Presentation: Progressive Proximal Weakness
+    |      |      |-- Elevated Serum CK
+    |      |      |-- Diagnosis: Muscle Biopsy with Necrotic Fibers
+    |      |      |-- Not Associated with ATN
+    |      |
+    |      |-- Inflammatory Myopathies (Option B)
+    |      |      |-- Presentation: Symmetric Proximal Muscle Weakness
+    |      |      |-- Normal Urinalysis
+    |      |      |-- Elevated Serum CK
+    |      |      |-- Insidious Onset
+    |      |      |-- Absence of Pain or Tenderness
+    |
+    |      |-- March Hemoglobinuria (Option C)
+    |      |      |-- Cause: Physical Erythrocyte Destruction
+    |      |      |-- Presentation: Reddish-Brown Urine
+    |      |      |-- Normal Serum CK Levels
+
+
+
+###################################################
+
+
+Chronic Hypertension Management Before Conception
+    |-- Key Recommendations
+    |      |-- Discontinue Renin-Angiotensin System Blockers
+    |      |      |-- ACE Inhibitors (e.g., Ramipril)
+    |      |      |-- Angiotensin Receptor Blockers (ARBs)
+    |      |      |-- Direct Renin Inhibitors
+    |      |      |-- Mineralocorticoid Receptor Antagonists (e.g., Spironolactone, Eplerenone)
+    |      |
+    |      |-- Target Blood Pressure
+    |             |-- Systolic < 140 mm Hg
+    |             |-- Diastolic < 90 mm Hg
+    |
+    |-- Preferred Management
+    |      |-- Discontinue Ramipril
+    |      |-- Start Labetalol
+    |      |-- Alternatives
+    |             |-- Nifedipine
+    |             |-- Methyldopa
+    |
+    |-- Clinical Guidelines
+    |      |-- ACOG and SMFM Recommendations
+    |             |-- Maintain BP < 140/90 mm Hg
+    |             |-- Updated in 2022 based on Chronic Hypertension and Pregnancy trial
+    |
+    |-- Incorrect Choices
+    |      |-- Option A: Labetalol - Correct choice
+    |      |-- Option B: Discontinuing Ramipril - Required, but needs replacement therapy
+    |      |-- Option C: Spironolactone - Contraindicated in pregnancy
+    |      |-- Option D: Not discontinuing Ramipril - Unsafe approach
+
+
+
+###################################################
+
+
+Resistant Hypertension Management
+    |-- Definition
+    |      |-- Blood pressure remains above goal despite three antihypertensive agents of different classes
+    |      |-- Blood pressure at goal but requires four or more medications (one must be a diuretic)
+    |
+    |-- Key Management Step
+    |      |-- Add Diuretic
+    |      |      |-- Preferred: Chlorthalidone (thiazide diuretic)
+    |      |      |      |-- Longer half-life allows once-daily dosing
+    |      |      |      |-- Evidence suggests efficacy in reducing cardiovascular events
+    |
+    |-- Common Pitfalls
+    |      |-- Suboptimal therapy often due to lack of diuretic
+    |      |      |-- Diuretic prevents or treats extracellular volume expansion
+    |
+    |-- Evaluation for Secondary Causes
+    |      |-- Primary Hyperaldosteronism
+    |      |      |-- Suspected in:
+    |      |      |      |-- Sustained hypertension >150/100 mm Hg
+    |      |      |      |-- Resistant hypertension on three-drug regimen (including diuretic)
+    |      |      |      |-- Controlled BP on four or more antihypertensives
+    |      |      |      |-- Hypertension with hypokalemia
+    |      |      |      |-- Adrenal mass incidentally discovered
+    |      |      |      |-- Family history of early-onset hypertension or stroke <40 years
+    |      |
+    |      |-- If diuretic addition fails
+    |      |      |-- Work-up for primary hyperaldosteronism appropriate
+    |
+    |-- Incorrect Management Options
+    |      |-- Plasma Aldosterone Concentration/Renin Activity Ratio (Option B)
+    |      |      |-- Not indicated without clinical suspicion for primary hyperaldosteronism
+    |
+    |      |-- Plasma Fractionated Metanephrines (Option C)
+    |      |      |-- Not indicated without clinical suspicion for pheochromocytoma
+    |      |      |      |-- Clinical suspicion includes:
+    |      |      |      |      |-- Resistant hypertension
+    |      |      |      |      |-- New-onset hypertension at young age
+    |      |      |      |      |-- Paroxysmal hypertension
+    |      |      |      |      |-- Episodic tachycardia, headaches, sweating
+    |      |      |      |      |-- Familial syndromes
+    |      |      |      |      |-- Adrenal adenoma on imaging
+    |      |      |      |      |-- Pressor response during procedures
+    |
+    |      |-- Renal Artery Imaging (Option D)
+    |      |      |-- Not indicated without clinical suspicion for renal artery stenosis
+    |      |      |      |-- Suspected in:
+    |      |      |      |      |-- Severe hypertension in patients >55 years
+    |      |      |      |      |-- Recurrent flash pulmonary edema
+    |      |      |      |      |-- Refractory heart failure
+    |      |      |      |      |-- Acute kidney injury after ACE inhibitor/ARB initiation
+
+
+
+###################################################
+
+
+Abdominal Compartment Syndrome (ACS)
+    |-- Definition
+    |      |-- Sustained intra-abdominal pressure >20 mm Hg
+    |      |-- Associated with at least one organ dysfunction
+    |
+    |-- Diagnosis
+    |      |-- Confirmed by bladder pressure measurement
+    |      |      |-- Indwelling catheter as surrogate for intra-abdominal pressure
+    |      |
+    |      |-- Indications for consideration
+    |      |      |-- Abdominal surgery
+    |      |      |-- Trauma
+    |      |      |-- Intra-abdominal bleeding
+    |      |      |-- Ascites
+    |      |      |-- Bowel obstruction
+    |      |      |-- Ileus
+    |      |      |-- Pancreatitis
+    |      |      |-- Capillary leak in sepsis and massive fluid resuscitation
+    |
+    |-- Next Appropriate Test
+    |      |-- Bladder pressure measurement (Option A)
+    |
+    |-- Treatment
+    |      |-- Surgical decompression of the abdominal compartment
+    |
+    |-- Incorrect Diagnostic Tests
+    |      |-- CT Urography (Option B)
+    |      |      |-- For unexplained hematuria, kidney tumors, and cysts
+    |      |      |-- Not useful in acute kidney injury
+    |      |
+    |      |-- Kidney Biopsy (Option C)
+    |      |      |-- Indicated for glomerular hematuria, increased albuminuria, unclear kidney disease causes, transplant dysfunction
+    |      |      |-- Not immediate next test for ACS diagnosis
+    |      |
+    |      |-- Kidney Ultrasonography (Option D)
+    |             |-- Helpful to exclude obstruction
+    |             |-- Not strongly suspected in this patient
+    |             |-- Placement of bladder catheter rules out acute urethral obstruction
+
+
+
+###################################################
+
+
+```plaintext
+Isovolemic Hypernatremia Treatment
+    |-- Key Treatment
+    |      |-- Administration of Water
+    |      |      |-- Preferred Route: Orally or Nasogastric Tube
+    |      |      |-- Daily Correction Rate: <10 mEq/L (10 mmol/L)
+    |
+    |-- Pathophysiology
+    |      |-- Cause: Water Loss during Glucose-Induced Osmotic Diuresis
+    |      |-- Consequences: Hypernatremia due to dehydration and electrolyte abnormalities
+    |
+    |-- Patient Considerations
+    |      |-- Confusion: Best to administer water via nasogastric tube
+    |      |-- Water Deficit: Approximately 4500 mL
+    |
+    |-- Treatment Options
+    |      |-- Option A: 5% Dextrose
+    |      |      |-- Ineffective due to worsening hyperglycemia and osmotic diuresis
+    |      |
+    |      |-- Option B: 0.45% Normal Saline
+    |      |      |-- Requires 9 liters to normalize serum sodium
+    |      |
+    |      |-- Option C: 0.9% Saline
+    |      |      |-- Ineffective for hypernatremia
+    |      |      |-- Worsens elevated blood pressure
+    |      |      |-- Exacerbates hyperchloremic metabolic acidosis
+    |
+    |-- Correction Guidelines
+    |      |-- Recommended Rate: Decrease serum sodium by no more than 10 mEq/L (10 mmol/L) daily
+    |      |-- Acceptable Rate: Up to 1.0 mEq/L (1.0 mmol/L) per hour
+    |      |-- Actual Correction Rate: Lower due to ongoing water losses
+```
+
+
+###################################################
+
+
+```plaintext
+Hypertension Management in Advanced CKD
+    |-- Treatment Options
+    |      |-- Loop Diuretics
+    |      |      |-- Indication: Furosemide for hypertension in advanced CKD
+    |      |      |-- Dosing: 2-3 times daily
+    |      |
+    |      |-- ACE Inhibitors / ARBs
+    |      |      |-- First-line for advanced CKD or proteinuric CKD
+    |      |      |-- Not to combine ACE with ARB due to risk of acute kidney injury and hyperkalemia
+    |      |
+    |      |-- Calcium Channel Blockers
+    |      |      |-- Reduce albuminuria
+    |      |      |-- Should be combined with ACE inhibitor or ARB
+    |
+    |-- Patient Assessment
+    |      |-- Blood Pressure Target: <130/80 mm Hg
+    |      |-- Stage: G4 CKD
+    |      |-- Signs: Jugular venous distention, lower extremity edema
+    |      |-- Estimated Glomerular Filtration Rate: <30 mL/min/1.73 m²
+    |
+    |-- Ineffective Treatments
+    |      |-- β-Blockers (e.g., Carvedilol)
+    |      |      |-- Not indicated without heart failure or recent MI
+    |      |      |-- Does not reduce expanded extracellular volume
+    |      |
+    |      |-- Hydralazine
+    |      |      |-- Likely increases extracellular volume
+    |      |      |-- Results in inadequate blood pressure control
+    |
+    |-- Combination Therapy
+    |      |-- Avoid combining ACE inhibitor (e.g., Lisinopril) with ARB (e.g., Losartan)
+    |      |      |-- Risk of adverse events: acute kidney injury, hyperkalemia
+    |      |      |-- No improved cardiovascular outcomes
+```
+
+
+###################################################
+
+
+```plaintext
+Venous Access Management in Chronic Kidney Disease
+    |-- Recommendations
+    |      |-- Avoid PICC Lines
+    |      |      |-- American Society of Nephrology: Avoid in patients with eGFR < 60 mL/min/1.73 m²
+    |      |      |-- Risks
+    |      |            |-- Significant trauma and venous stenosis
+    |      |            |-- 15% to 20% lower likelihood of transition to working fistula or graft
+    |      |            |-- Increased risk for death with long-term use
+    |      |
+    |      |-- Preferred Method
+    |      |      |-- Internal Jugular Vein Central Venous Catheter
+    |      |      |-- Benefits
+    |      |            |-- Better alternative than PICC or subclavian insertion
+    |      |            |-- Less prone to stenosis compared to subclavian vein
+    |
+    |-- Vascular Access Options
+    |      |-- Arteriovenous Fistula (AVF)
+    |      |      |-- Safest and most enduring option
+    |      |      |-- Superior clinical outcomes compared to arteriovenous grafts
+    |      |
+    |      |-- Subclavian Venous Catheters
+    |      |      |-- Avoidance recommended
+    |      |      |-- Risks
+    |      |            |-- Can lead to subclavian stenosis
+    |      |            |-- Impairs functioning of arteriovenous access for dialysis
+    |
+    |-- Patient Considerations
+    |      |-- Protect nondominant arm veins
+    |      |      |-- Limit phlebotomy and intravenous catheters
+    |      |
+    |      |-- Advanced CKD Patients
+    |      |      |-- May require renal replacement therapy
+```
+
+
+###################################################
+
+
+```plaintext
+Anti–glomerular Basement Membrane Antibody Disease
+    |-- Characteristics
+    |      |-- Necrotizing and crescentic glomerulonephritis
+    |      |-- Linear staining for IgG on immunofluorescence
+    |
+    |-- Diagnosis
+    |      |-- Measurement of anti-GBM antibodies
+    |      |      |-- Confirms diagnosis
+    |      |      |-- Monitors treatment response
+    |
+    |-- Clinical Presentation
+    |      |-- Rapidly progressive glomerulonephritis (RPGN)
+    |      |      |-- Acute rise in serum creatinine
+    |      |      |-- Accompanied by hematuria and proteinuria
+    |      |
+    |      |-- Lung involvement (Goodpasture syndrome)
+    |      |      |-- Occurs in >50% of patients
+    |      |      |-- Symptoms: hemoptysis, shortness of breath, cough
+    |
+    |-- Differential Diagnosis for RPGN
+    |      |-- Pauci-immune staining (ANCA-mediated glomerulonephritis)
+    |      |-- Linear staining (anti-GBM glomerulonephritis)
+    |      |-- Granular staining (lupus nephritis)
+    |
+    |-- Serological Testing
+    |      |-- Anti-GBM antibodies (most appropriate next step)
+    |      |-- p-ANCA/anti-MPO and c-ANCA/antiproteinase 3 antibodies
+    |      |      |-- Up to 1 in 3 patients with positive ANCA serologies
+    |      |      |-- More common in older women with anti-GBM disease
+    |
+    |-- Treatment
+    |      |-- Glucocorticoids
+    |      |-- Plasmapheresis
+    |      |-- Cyclophosphamide
+    |      |      |-- Eradicates serum anti-GBM antibody titer
+    |
+    |-- Incorrect Diagnostic Tests
+    |      |-- Anti-double-stranded DNA antibodies
+    |      |      |-- Not required (negative ANA, no granular staining)
+    |      |
+    |      |-- Anti-phospholipase A2 receptor antibodies
+    |      |      |-- Relevant for primary membranous nephropathy (not the case here)
+    |      |
+    |      |-- Circulating IgA levels
+    |      |      |-- Not diagnostically useful for IgA nephropathy
+    |      |      |-- Kidney biopsy shows linear staining (not consistent with IgAN)
+```
+
+
+###################################################
+
+
+```plaintext
+IgG4-Related Disease (IgG4-RD)
+    |-- Presentation
+    |      |-- Sentinel organ enlargement and dysfunction
+    |      |-- Common presentations
+    |      |      |-- Idiopathic pancreatitis
+    |      |      |-- Sclerosing cholangitis
+    |      |      |-- Bilateral salivary/lacrimal gland enlargement
+    |      |      |-- Retroperitoneal fibrosis
+    |      |      |-- Orbital pseudotumor/proptosis
+    |
+    |-- Pathogenesis
+    |      |-- Chronic interstitial nephritis (CIN)
+    |      |      |-- Fibrosis
+    |      |      |-- Dense lymphoplasmacytic infiltrate
+    |
+    |-- Diagnosis
+    |      |-- Tissue biopsy findings
+    |      |      |-- Dense lymphoplasmacytic infiltrate
+    |      |      |-- CD4-positive T cells and plasma cells in germinal centers
+    |      |      |-- IgG4-staining plasma cells
+    |      |      |-- Storiform fibrosis
+    |      |      |-- Obliterative phlebitis/arteritis
+    |      |      |-- Tissue eosinophilia
+    |      |-- Elevated serum IgG4 levels in 70-80% of patients
+    |      |-- Normal serum IgG4 does not rule out disease
+    |
+    |-- Treatment
+    |      |-- Initial treatment
+    |      |      |-- Prednisone
+    |
+    |-- Clues to Diagnosis***
+    |      |-- Idiopathic pancreatitis
+    |      |-- Large kidney size in chronic kidney disease
+
+Differential Diagnoses
+    |-- Sarcoidosis (Option B)
+    |      |-- Characterized by noncaseating granulomas
+    |      |-- Biopsy shows CIN changes
+    |      |-- Does not explain idiopathic pancreatitis or lymphoplasmacytic infiltrate
+    |
+    |-- Systemic Lupus Erythematosus (SLE) (Option C)
+    |      |-- May present with CIN
+    |      |-- More commonly causes acute glomerular disease
+    |      |-- Not associated with pancreatitis or lymphoplasmacytic infiltrate
+    |
+    |-- Tubulointerstitial Nephritis with Uveitis (TINU) (Option D)
+    |      |-- Acute interstitial nephritis with uveitis
+    |      |-- Common in adolescents and young women
+    |      |-- Clinical syndrome inconsistent with this patient
+```
+
+
+###################################################
+
+
+```plaintext
+Isotonic Hyponatremia and Multiple Myeloma
+    |-- Evaluation of Hyponatremia
+    |      |-- First Step
+    |      |      |-- Measure Serum Osmolality
+    |
+    |-- Isotonic Hyponatremia
+    |      |-- Definition
+    |      |      |-- Laboratory artifact due to increased plasma concentrations of lipids or proteins
+    |      |
+    |      |-- Serum Osmolality
+    |      |      |-- Normal (275-295 mOsm/kg H2O)
+    |      |
+    |      |-- Pathogenesis
+    |      |      |-- Increased solid phase (lipids/proteins) decreases water phase (93% to 80%)
+    |      |      |-- Diluting electrode causes spurious sodium values
+    |
+    |-- Multiple Myeloma
+    |      |-- Key Findings
+    |      |      |-- Elevated Serum Calcium
+    |      |      |-- Anemia
+    |      |      |-- Elevated Total Protein
+    |      |      |-- Low Albumin
+    |      |      |-- Increased Gamma Globulin Fraction
+    |      |
+    |      |-- Most Likely Cause of Isotonic Hyponatremia
+    |      |      |-- Confirmed by laboratory studies
+    |
+    |-- Incorrect Options
+    |      |-- Hypercalcemia (Option A)
+    |      |      |-- Causes polyuria due to vasopressin resistance
+    |      |      |-- Increases sodium concentration, not lowers
+    |      |
+    |      |-- Decrease in Solute Intake (Option C)
+    |      |      |-- Occurs in potomania or starvation
+    |      |      |-- Results in reduced kidney ability to excrete water
+    |      |      |-- Urine Osmolality <100 mOsm/kg H2O
+    |      |
+    |      |-- Psychogenic Polydipsia (Option D)
+    |      |      |-- Excess water intake exceeds kidney excretion
+    |      |      |-- Urine Osmolality likely <100 mOsm/kg H2O
+    |      |
+    |      |-- SIADH (Option E)
+    |      |      |-- Measured serum osmolality always low
+    |      |      |-- Results in hypo-osmolar hyponatremia
+```
+
+
+###################################################
+
+
+```plaintext
+Metabolic Alkalosis Diagnosis
+    |-- Types of Metabolic Alkalosis
+    |      |-- Saline-Responsive
+    |      |      |-- Urine Chloride < 15 mEq/L (15 mmol/L)
+    |      |      |-- Common Causes
+    |      |      |      |-- Vomiting
+    |      |      |      |-- Nasogastric Suction
+    |      |      |      |-- Diuretic Use
+    |      |
+    |      |-- Saline-Resistant
+    |      |      |-- Urine Chloride > 15 mEq/L (15 mmol/L)
+    |      |      |-- Associated Conditions
+    |      |      |      |-- Cushing Syndrome
+    |      |      |      |-- Primary Hyperaldosteronism
+    |
+    |-- Diagnosis Criteria
+    |      |-- Elevated Serum Bicarbonate
+    |      |-- Elevated Serum pH
+    |      |-- Laboratory Evaluation
+    |      |      |-- Urine Chloride Concentration
+    |
+    |-- Pathogenesis
+    |      |-- Loss of Acid or Retention of Bicarbonate
+    |      |-- Contributing Factors
+    |      |      |-- Volume Contraction
+    |      |      |-- Ineffective Arterial Blood Volume
+    |      |      |-- Hypokalemia
+    |      |      |-- Chloride Depletion
+    |      |      |-- Decreased Glomerular Filtration
+    |
+    |-- Likely Diagnosis
+    |      |-- Surreptitious Vomiting
+    |      |      |-- Causes Hypokalemia
+    |      |      |-- Typically Hypovolemic or Normovolemic
+    |      |      |-- Normal or Low Blood Pressure
+    |
+    |-- Differential Diagnoses
+    |      |-- Bartter Syndrome
+    |      |      |-- Autosomal Recessive Disorder
+    |      |      |-- Urine Chloride > 15 mEq/L (15 mmol/L)
+    |      |-- Gitelman Syndrome
+    |      |      |-- Autosomal Recessive Disorder
+    |      |      |-- Urine Chloride > 15 mEq/L (15 mmol/L)
+    |      |-- Cushing Syndrome
+    |      |      |-- Hypertension
+    |      |      |-- Urine Chloride > 15 mEq/L (15 mmol/L)
+    |      |-- Primary Hyperaldosteronism
+    |      |      |-- Hypertension
+    |      |      |-- Urine Chloride > 15 mEq/L (15 mmol/L)
+```
+
+
+###################################################
+
+
+```plaintext
+End-Stage Kidney Disease Management
+    |-- Differential Diagnosis
+    |      |-- Presumed Acute Kidney Injury
+    |      |      |-- Consider Late Presentation of End-Stage Kidney Disease (ESKD)
+    |      |
+    |      |-- Distinction Between Acute and Chronic Kidney Disease (CKD)
+    |      |      |-- History and Physical Exam: Often Indistinguishable
+    |      |      |-- Laboratory Indices: Often Indistinguishable
+    |      |      |-- Ultrasound Finding
+    |      |            |-- Small (<10 cm) Echogenic Kidneys: Consistent with Advanced CKD
+    |
+    |-- Management Options
+    |      |-- Initiate Dialysis (Option A)
+    |      |      |-- Indicated for Symptoms of Uremia and Severe Metabolic Acidosis
+    |      |      |-- Patient History: Long-standing Uncontrolled Hypertension
+    |      |      |-- Kidney Ultrasound: Small (<9 cm) Echogenic Kidneys
+    |      |
+    |      |-- Rapid Volume Challenge (Option B)
+    |      |      |-- Appropriate for Acute Prerenal Kidney Injury
+    |      |      |-- Risk: May provoke Heart Failure in ESKD Patients
+    |      |
+    |      |-- High-Dose Glucocorticoids (Option C)
+    |      |      |-- Indicated for Acute Glomerulonephritis
+    |      |      |-- Not Efficacious in Advanced CKD
+    |      |
+    |      |-- Percutaneous Kidney Biopsy (Option D)
+    |      |      |-- Indicated Only for Reversible or Treatable Causes
+    |      |      |-- Not Practical for Small Echogenic Kidneys (Irreversible Disease)
+    |      |      |-- Contraindicated in Small Kidneys: Increased Risk for Bleeding
+```
+
+
+###################################################
+
+
+```plaintext
+Antihypertensive Medication Regimen Adjustment
+    |-- Strategies for Dose Adjustment
+    |      |-- Maximize medication dose before adding another agent
+    |      |-- Add another agent before maximizing dose of prior agents
+    |
+    |-- Recommended Additional Treatment
+    |      |-- Amlodipine (CCB) - Option B
+    |      |      |-- Indicated for patients whose BP is not at target
+    |      |      |-- Target BP: <130/80 mm Hg (2017 ACC/AHA guideline)
+    |
+    |-- Considerations for Dose Adjustment
+    |      |-- Diminishing returns in BP lowering from 50% to 100% of maximum dose
+    |      |-- Increasing dose may not yield significant BP reduction
+    |      |-- Higher doses may lead to side effects and reduced adherence
+    |      |-- Adding a third drug recommended by experts for two-drug regimens
+    |
+    |-- Drug Combinations to Avoid
+    |      |-- Renin-Angiotensin System Blockers
+    |      |      |-- ACE inhibitors with ARBs
+    |      |      |-- ACE inhibitors or ARBs with aliskiren
+    |      |      |-- Risks: Increased cardiovascular and renal risk
+    |      |      |-- Aliskiren should not be added - Option A
+    |
+    |-- Less Preferred Options
+    |      |-- Hydralazine - Option C
+    |      |      |-- Not preferred due to less evidence of reducing clinical events
+    |      |      |-- Thrice-daily dosing increases pill burden
+    |      |
+    |      |-- Hydrochlorothiazide - Option D
+    |      |      |-- Not effective in combination with another thiazide
+    |      |      |-- Risk of hypokalemia
+    |      |      |-- Different diuretics (thiazide + potassium-sparing + loop) may be effective
+```
+
+
+###################################################
+
+
+```plaintext
+Nephrolithiasis During Pregnancy
+    |-- Diagnosis
+    |      |-- First Study
+    |      |      |-- Kidney Ultrasonography
+    |      |      |      |-- Readily available, inexpensive, safe
+    |      |      |      |-- Preferred for suspected nephrolithiasis
+    |      |      |      |-- Adequate for initial diagnosis in typical presentations
+    |      |      |      |-- Complex testing for high suspicion with nondiagnostic results
+    |      |
+    |      |-- Alternative Imaging Options
+    |      |      |-- Abdominal MRI
+    |      |      |      |-- Can be used but not optimal for kidney stones
+    |      |
+    |      |      |-- Plain Abdominal Radiography
+    |      |      |      |-- Limited utility
+    |      |      |      |-- Cannot detect radiolucent uric acid stones
+    |      |      |      |-- Avoid during pregnancy
+    |      |
+    |      |      |-- Noncontrast Helical Abdominal CT
+    |      |      |      |-- Highly sensitive and specific for stones
+    |      |      |      |-- Provides anatomic information
+    |      |      |      |-- Significant radiation exposure, contraindicated in pregnancy
+    |      |
+    |      |      |-- Ureteroscopy
+    |      |      |      |-- Invasive, not indicated for diagnosis
+    |      |      |      |-- Used for management of stones, not diagnosis
+    |
+    |-- Clinical Considerations
+    |      |-- Imaging Indications
+    |      |      |-- Diagnosis and management based on stone size and location
+    |      |
+    |      |-- Sensitivity Comparison
+    |      |      |-- Ultrasonography: Less sensitive for small/ureteral stones
+    |      |      |-- CT: Higher sensitivity but radiation risks
+```
+
+
+###################################################
+
+
+```plaintext
+Tumor Lysis Syndrome (TLS) Management
+    |-- Definition
+    |      |-- Acute kidney injury due to rapid tumor cell lysis
+    |      |-- Common in acute leukemia and high-grade lymphoma
+    |
+    |-- Clinical Features
+    |      |-- Electrolyte Abnormalities
+    |      |      |-- Severe hyperuricemia
+    |      |      |-- Hyperphosphatemia
+    |      |      |-- Hypocalcemia
+    |      |-- Complications
+    |      |      |-- Cardiac arrhythmias
+    |      |      |-- Seizures
+    |      |      |-- Death
+    |
+    |-- Treatment
+    |      |-- Initial Management
+    |      |      |-- Isotonic volume expansion
+    |      |
+    |      |-- Urate-Lowering Agents
+    |      |      |-- Rasburicase
+    |      |      |      |-- Mechanism: Converts urate to allantoin (more soluble)
+    |      |      |      |-- Preferred for rapid reduction of serum urate levels
+    |      |      |
+    |      |      |-- Allopurinol (Option A)
+    |      |      |      |-- Mechanism: Inhibits xanthine oxidase
+    |      |      |      |-- Prevents new urate formation, does not lower existing levels rapidly
+    |      |      |
+    |      |      |-- Febuxostat (Option B)
+    |      |      |      |-- Noncompetitive xanthine oxidase inhibitor
+    |      |      |      |-- Less effective than rasburicase for rapid urate reduction
+    |
+    |-- Controversial Treatments
+    |      |-- Urinary Alkalinization (Option D)
+    |      |      |-- Mechanism: Aims to increase uric acid solubility
+    |      |      |-- Risks: Can promote calcium phosphate precipitation
+    |      |      |-- Not preferred; isotonic saline and rasburicase are better options
+```
+
+
+###################################################
+
+
+```plaintext
+Nephrolithiasis Imaging Evaluation
+    |-- Noncontrast Helical CT (Option D)
+    |      |-- Sensitivity
+    |      |      |-- > 95%
+    |      |
+    |      |-- Specificity
+    |      |      |-- Highest among imaging options
+    |      |
+    |      |-- Composition Detection
+    |      |      |-- Detects stones independent of composition
+    |      |      |-- Exception: Indinavir crystals
+    |      |
+    |      |-- Predictive Ability
+    |      |      |-- May predict composition based on Hounsfield units
+    |      |      |-- Should not replace stone analysis
+    |      |
+    |      |-- Alternative Diagnoses
+    |      |      |-- Potentially identifies other conditions if nephrolithiasis is absent
+    |
+    |-- Intravenous Pyelography (IVP) (Option A)
+    |      |-- Role
+    |      |      |-- No role in kidney stone evaluation
+    |      |
+    |      |-- Sensitivity
+    |      |      |-- High for hydronephrosis diagnosis
+    |      |      |-- Lower than noncontrast helical CT for nephrolithiasis
+    |      |
+    |      |-- Limitations
+    |      |      |-- Requires intravenous contrast
+    |
+    |-- Kidney and Bladder Ultrasonography (Option B)
+    |      |-- Accuracy
+    |      |      |-- Less accurate than noncontrast helical CT
+    |      |      |-- Sensitivity: 50% to 90%
+    |      |
+    |      |-- Detection Limitations
+    |      |      |-- Small stones and ureteral stones often undetected
+    |      |      |-- Less effective in determining stone size or location
+    |      |
+    |      |-- Preferred Use
+    |      |      |-- When noncontrast CT is unavailable or in pregnant patients
+    |
+    |-- Radiography (Option C)
+    |      |-- Role
+    |      |      |-- Little role in kidney stone evaluation
+    |      |
+    |      |-- Limitations
+    |      |      |-- Poor sensitivity and specificity
+    |      |      |-- Cannot detect radiolucent uric acid stones
+    |      |      |-- Difficulty determining calcification location
+    |      |
+    |      |-- Utility
+    |      |      |-- Low cost and low radiation exposure
+    |      |      |-- Useful for monitoring stone movement and total burden
+```
+
+
+###################################################
+
+
+```plaintext
+Thin Glomerular Basement Membrane (GBM) Disease
+    |-- Diagnosis
+    |      |-- Most likely diagnosis: Thin GBM disease (Option D)
+    |
+    |-- Other Names
+    |      |-- Benign familial hematuria
+    |
+    |-- Inheritance
+    |      |-- Autosomal dominant
+    |
+    |-- Pathogenesis
+    |      |-- Type IV collagen abnormality
+    |      |-- Thinning of GBM
+    |      |-- Results in hematuria
+    |      |      |-- Usually without proteinuria
+    |      |      |-- Usually without abnormal kidney function
+    |
+    |-- Epidemiology
+    |      |-- Affects up to 5% of the population
+    |      |-- 50% of patients report family history of hematuria
+    |
+    |-- Clinical Features
+    |      |-- Hematuria
+    |      |      |-- Microscopic and macroscopic
+    |      |      |-- First manifests in young adulthood
+    |      |
+    |      |-- Kidney Function
+    |      |      |-- Usually normal
+    |
+    |-- Diagnosis Confirmation
+    |      |-- Kidney biopsy not usually required
+    |      |-- Genetic testing may be used
+
+Autosomal Dominant Tubulointerstitial Kidney Disease (Option A)
+    |-- Clinical Features
+    |      |-- Slowly progressive chronic kidney disease
+    |      |-- Bland urine sediment
+    |      |-- Small kidneys
+    |      |-- Family history of end-stage kidney disease
+    |
+    |-- Patient Features
+    |      |-- Normal-sized kidneys
+    |      |-- Microscopic hematuria
+    |      |-- No family history of kidney dysfunction
+
+Fabry Disease (Option B)
+    |-- Inheritance
+    |      |-- X-linked pattern
+    |
+    |-- Clinical Features
+    |      |-- Kidney dysfunction by adulthood
+    |      |-- Other organ abnormalities
+    |      |      |-- Skin: telangiectasias, angiokeratomas
+    |      |      |-- Eyes, heart, brain, peripheral nervous system
+    |      |      |-- Severe neuropathic pain
+    |
+    |-- Patient Features
+    |      |-- No kidney dysfunction
+    |      |-- No other organ abnormalities
+
+Hereditary Nephritis (Alport Syndrome) (Option C)
+    |-- Inheritance
+    |      |-- X-linked in 85% of cases
+    |      |-- Autosomal recessive in 15% of cases
+    |
+    |-- Clinical Features
+    |      |-- Family history of hematuria
+    |      |-- Proteinuria
+    |      |-- Renal dysfunction (including end-stage kidney disease)
+    |      |-- Visual and hearing abnormalities
+    |
+    |-- Patient Features
+    |      |-- No proteinuria
+    |      |-- No renal dysfunction
+```
+
+
+###################################################
+
+
+```plaintext
+Hypertension Management in Older Adults
+    |-- Recommended First-Line Treatment
+    |      |-- Chlorthalidone (Option A)
+    |
+    |-- Blood Pressure Goals
+    |      |-- American College of Cardiology/American Heart Association
+    |      |      |-- SBP <130 mm Hg for adults ≥65 years
+    |      |
+    |      |-- American College of Physicians/American Academy of Family Physicians
+    |      |      |-- SBP <150 mm Hg for most patients >60 years
+    |      |      |-- SBP <140 mm Hg for high cardiovascular risk patients >60 years
+    |
+    |-- High-Risk Patient Considerations
+    |      |-- Patient Profile
+    |      |      |-- Diabetes mellitus
+    |      |      |-- Peripheral vascular disease
+    |      |      |-- Hyperlipidemia
+    |      |
+    |      |-- Recommended Actions
+    |      |      |-- Initiate second first-line antihypertensive (chlorthalidone or CCB)
+    |
+    |-- Treatment Approach
+    |      |-- Single Agent Initiation
+    |      |      |-- Followed by Addition of Other Agents
+    |      |
+    |      |-- Second Drug Mechanism
+    |      |      |-- Different mechanism recommended
+    |      |      |-- First-line options: CCB, thiazide diuretic, ACE inhibitor, ARB
+    |      |      |-- Avoid ACE inhibitor/ARB combinations
+    |
+    |-- Ineffective Options
+    |      |-- Prazosin (Option B)
+    |      |      |-- Not first-line therapy
+    |      |      |-- Less effective for cardiovascular disease prevention
+    |
+    |-- Peripheral Artery Disease (PAD) Considerations
+    |      |-- Similar treatment to hypertension without PAD
+    |      |-- No evidence for superiority of any antihypertensive class
+    |
+    |-- Ineffective Medication Switch
+    |      |-- Lisinopril to Ramipril (Option C)
+    |      |      |-- No indication to switch
+    |
+    |-- Continuing Current Therapy Risks
+    |      |-- Option D
+    |      |      |-- Increased risk for cardiovascular events
+    |      |      |-- SBP reduction benefit likely exceeds harms
+```
+
+
+###################################################
+
+
+```plaintext
+Membranous Nephropathy Diagnosis
+    |-- Noninvasive Testing
+    |      |-- Anti-Phospholipase A2 Receptor Antibodies (PLA2R)
+    |      |      |-- Approaches 100% specificity for primary membranous nephropathy
+    |      |      |-- Can eliminate need for kidney biopsy if:
+    |      |      |      |-- Preserved kidney function
+    |      |      |      |-- No evidence of secondary causes
+    |      |      |      |-- Clear contraindication to kidney biopsy
+    |
+    |-- Clinical Context
+    |      |-- Nephrotic Syndrome
+    |      |      |-- Patient likely has membranous nephropathy
+    |      |      |-- Prone to thrombotic complications
+    |      |      |      |-- Clots can occur in up to 25% of patients
+    |      |      |      |-- Common sites: lower extremity, pulmonary, renal veins
+    |      |      |      |-- Increased risk with serum albumin < 2.8 g/dL
+    |
+    |-- Differential Diagnosis
+    |      |-- ANCA-Associated Vasculitis
+    |      |      |-- Characterized by:
+    |      |      |      |-- Rapid decline in kidney function
+    |      |      |      |-- Erythrocytes and erythrocyte casts on urine microscopy
+    |      |      |-- Not present in this patient; ANCA antibody testing not appropriate
+    |
+    |      |-- Systemic Lupus Erythematosus (SLE)
+    |      |      |-- Anti-Double-Stranded DNA Antibodies
+    |      |      |      |-- Highly specific for SLE
+    |      |      |-- Class V Lupus Nephritis
+    |      |      |      |-- A cause of secondary membranous nephropathy
+    |      |      |-- Ruling out lupus nephritis:
+    |      |      |      |-- Normal complement levels
+    |      |      |      |-- Negative antinuclear antibody testing
+    |
+    |      |-- Kidney Biopsy
+    |      |      |-- High risk to stop anticoagulation in patient with venous thromboembolism
+    |      |      |-- Anti-PLA2R testing is the next step
+    |
+    |-- Conclusion
+    |      |-- Positive anti-PLA2R testing is a definitive diagnosis of membranous nephropathy
+```
+
+
+###################################################
+
+
+```plaintext
+Hypophosphatemia in Patient
+    |-- Likely Cause
+    |      |-- Ferric Carboxymaltose (Option A)
+    |      |      |-- Parenteral iron solution
+    |      |      |-- Administered in single dose
+    |      |      |-- Increases in FGF-23
+    |      |      |      |-- Causes phosphaturia
+    |      |      |      |-- Decreases 1-hydroxylation of vitamin D
+    |      |      |-- Risk factors for severe hypophosphatemia
+    |      |      |      |-- Vitamin D deficiency
+    |      |      |      |-- Malnutrition
+    |      |      |      |-- Gastrointestinal disease
+    |      |      |      |-- Medications binding phosphorus
+    |      |      |-- Transient hypophosphatemia possible after single dose
+    |
+    |-- Excluded Causes
+    |      |-- Low Phosphorus Diet (Option B)
+    |      |      |-- Kidney can reduce phosphorus excretion
+    |      |      |-- Severely phosphate-restricted diet needed for significant decrease
+    |      |      |-- High fractional excretion indicates renal wasting
+    |      |
+    |      |-- Metabolic Acidosis (Option C)
+    |      |      |-- Low serum bicarbonate suggests metabolic acidosis
+    |      |      |-- Minimal effect on phosphorus levels
+    |      |      |-- Elevated fractional excretion excludes intracellular shift
+    |      |
+    |      |-- Prednisone (Option D)
+    |             |-- Can cause muscle breakdown
+    |             |-- Interferes with vitamin D metabolism
+    |             |-- Does not typically cause hypophosphatemia
+```
+
+
+###################################################
+
+
+```plaintext
+Eplerenone Therapy Initiation
+    |-- Indication
+    |      |-- Resistant Hypertension
+    |      |-- Positive Screening for Primary Aldosteronism
+    |            |-- Plasma Aldosterone Concentration/Renin Activity Ratio >20
+    |            |-- Plasma Aldosterone Concentration ≥15 ng/dL (414 pmol/L)
+    |
+    |-- Diagnosis Confirmation
+    |      |-- Referral to Endocrinologist/Nephrologist
+    |      |-- Additional Testing
+    |            |-- Assess Inappropriate Aldosterone Secretion in Salt-Replete State
+    |
+    |-- Pathophysiology
+    |      |-- Primary Hyperaldosteronism
+    |            |-- Most Common Cause of Secondary Hypertension in Middle-Aged Adults
+    |            |-- Important Cause of Resistant Hypertension
+    |            |-- Diffuse Bilateral Adrenal Hyperplasia (2/3 of Cases)
+    |
+    |-- Management
+    |      |-- Eplerenone (Aldosterone Receptor Antagonist)
+    |
+    |-- Alternative Options
+    |      |-- Bilateral Adrenal Vein Sampling (Option A)
+    |            |-- Purpose: Distinguish Unilateral Adenoma vs. Bilateral Hyperplasia
+    |            |-- Indication: Surgical Candidates
+    |            |-- Not indicated for Patient (Multiple Comorbidities, No Surgical Interest)
+    |
+    |      |-- MRI of Adrenal Glands (Option C)
+    |            |-- Not indicated
+    |            |-- CT Superior Spatial Resolution for Adrenal Assessment
+    |
+    |      |-- Oral Sodium Loading Test (Option D)
+    |            |-- Possible Confirmatory Test
+    |            |-- Not to be initiated until Blood Pressure Controlled and Hypokalemia Corrected
+```
+
+
+###################################################
+
+
+```plaintext
+Mixed Acid-Base Disorder Diagnosis
+    |-- Initial Steps
+    |      |-- Identify likely dominant acid-base disorder
+    |      |-- Assess compensatory response
+    |
+    |-- Key Indicators
+    |      |-- Measured values outside expected compensatory range
+    |      |      |-- Indicates mixed acid-base disorder
+    |
+    |-- Likely Dominant Disorder
+    |      |-- Respiratory Alkalosis
+    |      |-- Normal Gap Metabolic Acidosis
+    |      |      |-- pH: 7.4 (normal, suggests mixed disorder)
+    |      |      |-- PCO2: 27 mm Hg (3.6 kPa) - indicates respiratory alkalosis
+    |      |      |-- Expected metabolic compensation
+    |      |            |-- Serum bicarbonate expected decrease: 5.2 to 6.5 mEq/L (5.2-6.5 mmol/L)
+    |      |            |-- Normal bicarbonate: 24 mEq/L (24 mmol/L)
+    |      |            |-- Expected serum bicarbonate: 17.5-18.8 mEq/L (17.5-18.8 mmol/L)
+    |      |-- Actual serum bicarbonate: 16 mEq/L (16 mmol/L)
+    |            |-- Lower than expected, indicating concurrent metabolic acidosis
+    |
+    |-- Anion Gap
+    |      |-- Normal anion gap: 7
+    |      |      |-- Indicates normal gap metabolic acidosis
+    |
+    |-- Incorrect Options
+    |      |-- Option A: Respiratory alkalosis with increased anion gap metabolic acidosis
+    |      |      |-- Incorrect due to normal anion gap (7)
+    |      |
+    |      |-- Option C: Respiratory alkalosis, normal anion gap metabolic acidosis, and metabolic alkalosis
+    |      |      |-- Incorrect due to lower serum bicarbonate
+    |      |
+    |      |-- Option D: Respiratory alkalosis with chronic compensation
+    |      |      |-- Partially correct but does not account for lower serum bicarbonate indicating metabolic acidosis
+```
+
+
+###################################################
+
+
+```plaintext
+Hypertension Management in CKD with eGFR <30 mL/min/1.73 m2
+    |-- Key Factors
+    |      |-- Sodium Retention
+    |      |-- Volume Overload
+    |
+    |-- Preferred Treatment
+    |      |-- Discontinue Hydrochlorothiazide
+    |      |-- Initiate Furosemide
+    |      |      |-- Dosing: Two or three times daily
+    |
+    |-- Rationale
+    |      |-- Sodium Restriction: <2000 mg/d
+    |      |-- Diuretic Addition Essential for BP Control
+    |      |-- Higher Diuretic Doses Required Due to Decreased GFR
+    |      |-- Hydrochlorothiazide Ineffective in Advanced CKD
+    |      |      |-- Evidence: Elevated BP, Edema, Hyperkalemia
+    |      |-- Loop Diuretics Preferred in eGFR <20 to 30 mL/min/1.73 m2
+    |
+    |-- Inappropriate Treatments
+    |      |-- Eplerenone (Option A)
+    |      |      |-- Dual RAS Inhibition Risk
+    |      |      |-- Increased Serum Potassium Level
+    |      |      |-- Weaker Diuretic
+    |      |      |-- Not First-Line for CKD
+    |
+    |      |-- Increasing Hydrochlorothiazide Dose (Option C)
+    |      |      |-- Ineffective in Reducing BP or Edema
+    |      |      |-- Thiazide Ineffectiveness with Decreased GFR
+    |
+    |      |-- Continuing Current Management (Option D)
+    |      |      |-- Inappropriate: BP not at target <130/80 mm Hg
+    |      |      |-- Presence of Edema and Hyperkalemia
+    |
+    |-- Treatment Goals
+    |      |-- BP Target: <130/80 mm Hg (ACC/AHA Guidelines)
+```
+
+
+###################################################
+
+
+```plaintext
+Proteinuria Evaluation
+    |-- Key Findings
+    |      |-- Significant proteinuria
+    |      |      |-- Measured via urine protein-creatinine ratio
+    |      |      |-- Minimal proteinuria on urine dipstick
+    |      |
+    |      |-- Nonalbumin proteinuria suspected
+    |      |      |-- Includes:
+    |      |            |-- Kidney-derived low-molecular-weight proteins
+    |      |            |-- Monoclonal immunoglobulins and light chains
+    |      |            |-- Myoglobin
+    |      |            |-- Hemoglobin
+    |
+    |-- Next Steps
+    |      |-- Perform urine protein electrophoresis (Option E)
+    |      |      |-- Essential for diagnosing underlying kidney disease
+    |      |
+    |      |-- Assess for urine protein in kidney disease patients
+    |
+    |-- Clinical Context
+    |      |-- Unexplained elevation of serum creatinine
+    |      |-- Normocytic, normochromic anemia
+    |      |-- Suggests possibility of multiple myeloma
+    |
+    |-- Incorrect Options
+    |      |-- Repeat urinalysis (Option A)
+    |      |      |-- Does not clarify discrepancy between dipstick and protein-creatinine ratio
+    |
+    |      |-- 24-hour urine collection (Option B)
+    |      |      |-- Traditional but impractical; not routinely used
+    |
+    |      |-- Sulfosalicylic acid test (Option C)
+    |      |      |-- Confirms presence of nonalbumin proteins but does not identify specific types
+    |
+    |      |-- Urine albumin-creatinine ratio (Option D)
+    |      |      |-- Measures only albumin; not useful for identifying nonalbumin proteins
+```
+
+
+###################################################
+
+
+```plaintext
+Renal Vein Thrombosis (RVT)
+    |-- Overview
+    |      |-- Complication of nephrotic syndrome
+    |      |-- Most commonly associated with membranous nephropathy (MN)
+    |
+    |-- Diagnosis
+    |      |-- Preferred Imaging Studies
+    |      |      |-- Renal ultrasonography with Doppler
+    |      |      |-- Renal venography (gold standard, less invasive preferred)
+    |      |
+    |      |-- Indications for Imaging
+    |      |      |-- Acute kidney injury (AKI)
+    |      |      |-- Estimated glomerular filtration rate < 30 mL/min/1.73 m²
+    |      |
+    |      |-- Symptoms
+    |      |      |-- Hematuria
+    |      |      |-- Flank pain
+    |      |      |-- Can be asymptomatic
+    |
+    |-- Diagnostic Tests
+    |      |-- Next Best Test
+    |      |      |-- Renal ultrasonography with Doppler (Option D)
+    |      |
+    |      |-- Incorrect Options
+    |      |      |-- Anti–phospholipase receptor A2 antibodies (Option A)
+    |      |      |      |-- Present in ~70% of MN patients
+    |      |      |      |-- No role in AKI etiology or RVT diagnosis
+    |      |      |
+    |      |      |-- Fractional excretion of sodium (FENa) (Option B)
+    |      |      |      |-- <1% in prerenal AKI
+    |      |      |      |-- >2% in acute tubular necrosis
+    |      |      |      |-- Not applicable due to patient's non-oliguric status
+    |      |      |
+    |      |      |-- Radionuclide imaging (Option C)
+    |      |      |      |-- Assesses arterial flow, estimates GFR
+    |      |      |      |-- Lacks specificity for RVT
+    |
+    |-- Pathogenesis
+    |      |-- Hypercoagulable state in nephrotic syndrome
+    |      |-- RVT more common with membranous nephropathy than other nephrotic states
+```
+
+
+###################################################
+
+
+```plaintext
+Hemodialysis Line-Related Sepsis
+    |-- Management
+    |      |-- Immediate Catheter Removal
+    |      |      |-- Indications
+    |      |      |      |-- Severe sepsis
+    |      |      |      |-- Evidence of metastatic infection
+    |      |      |      |-- Exit-site or tunnel infection
+    |      |      |      |-- Persistent fever
+    |      |      |      |-- Bacteremia despite antibiotics
+    |      |
+    |      |-- Antibiotic Lock Therapy
+    |      |      |-- Indications
+    |      |      |      |-- Stable patients
+    |      |      |      |-- Less virulent organisms (e.g., Staphylococcus epidermidis)
+    |      |      |-- Contraindications
+    |      |      |      |-- Severe sepsis
+    |      |      |      |-- Staphylococcus aureus infections
+    |      |      |      |-- Certain gram-negative organisms
+    |      |
+    |      |-- Empiric Antibiotics
+    |      |      |-- Administer while awaiting blood culture results in suspected bacteremia
+    |
+    |-- Additional Management Options
+    |      |-- Remove Tunneled Hemodialysis Catheter (Option D)
+    |      |      |-- Infection is 2nd leading cause of death in ESKD patients
+    |      |
+    |      |-- Arteriovenous Fistula (AVF) Excision (Option B)
+    |      |      |-- Not indicated
+    |      |      |-- Lower infection risk than catheters
+    |      |      |-- AVFs have lowest risk compared to arteriovenous grafts
+    |      |
+    |      |-- Exchange of Catheter Over Guidewire (Option C)
+    |      |      |-- May be considered for stable patients without tunnel infection
+    |      |      |-- Not indicated for this patient
+    |      |      |      |-- No evidence of tunnel infection
+    |      |      |      |-- Bacteremia not cleared within 48 hours
+```
+
+
+###################################################
+
+
+```plaintext
+Prevent Cardiovascular Events in CKD Patients
+    |-- Key Treatment
+    |      |-- Statins
+    |      |      |-- Reduce cardiovascular events in CKD patients
+    |      |      |-- Do not slow progression of CKD
+    |      |      |-- High-Intensity Atorvastatin (Option D)
+    |      |             |-- Recommended for patients aged 40-75 with diabetes
+    |      |             |-- Consider if risk modifiers present:
+    |      |             |      |-- Albuminuria ≥30 mcg/mg creatinine
+    |      |             |      |-- eGFR <60 mL/min/1.73 m²
+    |      |             |-- ADA recommends in patients with diabetes and ASCVD risk factors
+    |      |             |-- KDIGO recommends in patients >40 years with non-dialysis-dependent CKD
+    |      |             |-- Hepatic clearance, no renal dose adjustment needed
+    |      |             |-- May reduce proteinuria
+
+    |-- Wrong Choices
+    |      |-- Evolocumab (Option A)
+    |      |      |-- PCSK9 inhibitor, not indicated for this patient
+    |      |      |-- Consider for secondary prevention if LDL ≥70 mg/dL despite maximally tolerated therapy
+    |      |
+    |      |-- Ezetimibe (Option B)
+    |      |      |-- Not indicated as standalone treatment
+    |      |      |-- Can be added in very high-risk patients with ASCVD if LDL remains ≥70 mg/dL
+
+    |-- Insufficient Treatment
+    |      |-- Moderate-Intensity Rosuvastatin (Option C)
+    |      |      |-- Not sufficient based on ACC/AHA and ADA guidelines
+    |      |      |-- Associated with increased risk of kidney injury in severe CKD compared to atorvastatin
+```
+
+
+###################################################
+
+
+```plaintext
+Hepatitis C Virus Infection and Membranoproliferative Glomerulonephritis (MPGN)
+    |-- Diagnosis
+    |      |-- Membranoproliferative Glomerulonephritis (MPGN)
+    |      |      |-- Immune Complex Form
+    |      |      |      |-- Associated with: 
+    |      |      |      |      |-- Infectious Etiologies
+    |      |      |      |      |-- Autoimmune Etiologies
+    |      |      |      |      |-- Malignancy-Associated Etiologies
+    |      |      |-- Most Common Etiology
+    |      |      |      |-- Infectious: Hepatitis C Virus (HCV) Infection
+    |
+    |-- Patient Risk Factors
+    |      |-- History of Transactional Sex
+    |      |      |-- Increased Risk for HCV Infection
+    |
+    |-- Treatment Approach
+    |      |-- If HCV Positive
+    |      |      |-- Anti-HCV Antiviral Therapy
+    |      |      |-- Consider Immunosuppression
+    |      |      |      |-- Glucocorticoids
+    |      |      |      |-- Rituximab
+    |
+    |-- Kidney Biopsy Evaluation
+    |      |-- Immunofluorescence Microscopy
+    |      |      |-- Common Pattern
+    |      |      |      |-- Immune Complex Deposition
+    |      |      |      |      |-- Immunoglobulin (IgG, IgM, IgA)
+    |      |      |      |      |-- Complement (C1q, C3)
+    |      |      |      |-- Inciting Causes
+    |      |      |      |      |-- Infectious
+    |      |      |      |      |-- Autoimmune
+    |      |      |      |      |-- Malignancy Associated
+    |
+    |-- Differential Diagnosis
+    |      |-- Genetic Mutations of Alternative Complement Pathway Proteins (Option A)
+    |      |      |-- Not Indicated
+    |      |      |      |-- Extremely Rare Finding
+    |      |      |      |-- Isolated C3 Staining
+    |      |      |      |-- Suggests Hyperactivity of Alternative Complement Pathway
+    |      |-- Hepatitis B Virus Infection and Syphilis (Options B, D)
+    |      |      |-- Linked to Glomerular Diseases
+    |      |      |-- Classically Present with Nephrotic Syndrome
+    |      |      |      |-- Associated with Membranous Nephropathy
+```
+
+
+###################################################
+
+
+```plaintext
+Symptomatic Hyponatremia Treatment
+    |-- Initial Treatment
+    |      |-- Increase serum sodium by 3 to 4 mEq/L (3-4 mmol/L)
+    |      |-- Administer 3% saline infusion
+    |      |-- Monitor serum sodium every 2 hours
+    |
+    |-- Simultaneous Administration
+    |      |-- Use desmopressin with 3% saline
+    |      |      |-- Results in more predictable and safer increase in serum sodium
+    |
+    |-- Treatment Approach
+    |      |-- Determine duration of hyponatremia
+    |      |      |-- Acute: <48 hours
+    |      |      |-- Chronic: >48 hours
+    |      |      |-- In uncertain cases, treat as chronic
+    |
+    |-- Risks of Rapid Correction
+    |      |-- Brain cell response to hyponatremia
+    |      |      |-- Extrudes osmotically active solutes
+    |      |-- Risk of osmotic demyelination syndrome (ODS)
+    |      |      |-- Avoid rapid increase >8 mEq/L (8 mmol/L) in 24 hours
+    |
+    |-- Treatment Goals
+    |      |-- Improve symptoms
+    |      |-- Prevent neurologic complications
+    |
+    |-- Treatment Options
+    |      |-- Correct serum sodium by 3 to 4 mEq/L (3-4 mmol/L)
+    |      |      |-- Use 100-mL bolus or 30 mL/h of hypertonic 3% saline
+    |
+    |-- Incorrect Treatment Choices
+    |      |-- Fluid Restriction (Option A)
+    |      |      |-- Not appropriate for symptomatic patients
+    |      |
+    |      |-- 0.9% Saline (Option B)
+    |      |      |-- May lower serum sodium in SIADH
+    |      |
+    |      |-- Tolvaptan (Option D)
+    |      |      |-- Antidiuretic hormone antagonist
+    |      |      |-- Unpredictable response in symptomatic hyponatremia
+```
+
+
+###################################################
+
+
+```plaintext
+Albuminuria Screening and Hypertension Management
+    |-- Screening for Albuminuria
+    |      |-- Importance
+    |      |      |-- Moderately increased albuminuria may go undetected by dipstick urinalysis
+    |      |      |-- Direct quantification required in high-risk patients
+    |
+    |-- First-Line Treatment for Hypertension in Diabetes
+    |      |-- Recommendations
+    |      |      |-- ACE inhibitor or Angiotensin Receptor Blocker (ARB) at maximum tolerated dose
+    |      |      |-- Indicated for urine albumin-creatinine ratio >300 mg/g
+    |
+    |-- Blood Pressure Goals
+    |      |-- ACC/AHA Guidelines
+    |      |      |-- BP goal: <130/80 mm Hg for patients with diabetes mellitus
+    |
+    |      |-- ADA Recommendations
+    |      |      |-- BP target: <130/80 mm Hg for high cardiovascular risk patients (ASCVD or 10-year ASCVD risk ≥15%)
+    |      |      |-- BP target: 140/90 mm Hg for patients with 10-year ASCVD risk <15%
+    |
+    |-- Urine Albumin-Creatinine Ratio
+    |      |-- Next Step in Management
+    |      |      |-- Measure urine albumin-creatinine ratio to determine indication for ACE inhibitor or ARB
+    |
+    |-- Incorrect Management Options
+    |      |-- Option A: Selecting specific antihypertensive drug (e.g., CCB, thiazide) not indicated until albuminuria quantification
+    |      |-- Option B: Thiazide diuretic not indicated until albuminuria quantification
+    |      |-- Option C: Nonpharmacologic therapy alone insufficient for stage 2 hypertension management
+    |      |-- Reassessment Timing
+    |      |      |-- BP should be remeasured in 1 month, not 3 months
+```
+
+
+###################################################
+
+
+```plaintext
+Alcoholic Ketoacidosis
+    |-- Definition
+    |      |-- Increased anion gap metabolic acidosis
+    |      |-- Minimal ketones on urine dipstick analysis
+    |
+    |-- Diagnosis
+    |      |-- Anion Gap
+    |      |      |-- 28 (increased)
+    |      |
+    |      |-- Serum Ethanol Levels
+    |      |      |-- May be low or absent due to metabolism
+    |      |
+    |      |-- Key Tests
+    |      |      |-- Nitroprusside reagent detects acetoacetate only
+    |      |      |-- β-hydroxybutyrate may be elevated
+    |      |      |-- Direct measurement of β-hydroxybutyrate for definitive diagnosis
+    |
+    |-- Pathogenesis
+    |      |-- Ethanol Metabolism
+    |      |      |-- Ethanol → Acetaldehyde → Acetic Acid
+    |      |      |-- NAD+ reduced to NADH (increased ratio)
+    |      |
+    |      |-- Insulin and Hormonal Changes
+    |      |      |-- Decreased insulin secretion (starvation)
+    |      |      |-- Increased counter-regulatory hormones
+    |      |      |-- Lipolysis and ketone generation (acetoacetate, β-hydroxybutyrate)
+    |
+    |-- Differential Diagnosis
+    |      |-- Ethylene Glycol and Methanol Toxicities
+    |      |      |-- Associated with increased osmolal gap (>10 mOsm/kg H2O)
+    |      |      |-- Calculated osmolal gap: 3 mOsm/kg H2O (unlikely)
+    |      |
+    |      |-- Isopropyl Alcohol
+    |      |      |-- Metabolized to acetone (ketone)
+    |      |      |-- Leads to ketosis, not acidosis
+    |      |      |-- No osmolal gap present in this patient
+```
+
+
+###################################################
+
+
+```plaintext
+Non-Dialytic Palliative Therapy for Advanced Chronic Kidney Disease
+    |-- Goal
+    |      |-- Ongoing medical management to prolong comfort and functioning
+    |
+    |-- Key Management Strategies
+    |      |-- Intensify Hypertension Management (Option C)
+    |      |      |-- Target Systolic BP: <140 mm Hg for patients with stroke
+    |      |      |-- Current BP: 160/72 mm Hg
+    |      |
+    |      |-- Non-Dialytic Medical Management
+    |      |      |-- Appropriate for older patients with ESKD and comorbid conditions
+    |      |      |-- Avoids dialysis burdens and fewer hospitalizations
+    |
+    |-- Treatment Options for ESKD
+    |      |-- Dialysis
+    |      |-- Transplantation
+    |      |-- Non-Dialytic Medical Management
+    |
+    |-- Shared Decision-Making
+    |      |-- Vital for patient engagement in treatment choices
+    |      |-- Patient chose non-dialytic medical management
+    |
+    |-- Inappropriate Management Options
+    |      |-- Adding Phosphate Binder (Option A)
+    |      |      |-- Serum phosphorus level: Normal range
+    |      |
+    |      |-- Discontinuing All Medications Except Insulin (Option B)
+    |      |      |-- Not compatible with ongoing medical management philosophy
+    |      |
+    |      |-- Hospice Referral (Option D)
+    |      |      |-- May be indicated in future as CKD progresses
+    |      |      |-- Currently, patient functions well and has no hospice needs
+```
+
+
+###################################################
+
+
+```plaintext
+Urothelial Cancer Screening in Hematuria with Aristolochic Acid Nephropathy
+    |-- Risk Factors
+    |      |-- Hematuria
+    |      |-- Aristolochic Acid Nephropathy
+    |      |      |-- Associated with chronic tubulointerstitial disease
+    |      |      |-- Increased risk for urothelial cancer
+    |      |-- Herbal Medications
+    |      |      |-- Certain Chinese herbal medications linked to nephropathy
+
+    |-- Diagnostic Tests
+    |      |-- CT Urography
+    |      |      |-- Not sensitive enough for ureters/bladder neoplasia
+    |      |
+    |      |-- Cystoscopy with Retrograde Pyelography (Option A)
+    |      |      |-- Most appropriate test for assessing urothelial tumor
+    |      |
+    |      |-- MRI of Kidneys (Option B)
+    |      |      |-- Not suitable for lower urinary tract evaluation
+    |      |      |-- Alternative for renal masses but not gold standard
+    |      |
+    |      |-- Renal Angiography (Option C)
+    |      |      |-- Considered for persistent gross hematuria when other tests fail
+    |      |      |-- Not first-line management in this case
+    |
+    |-- Management Approach
+    |      |-- In Young Patients Without Risk Factors (Option D)
+    |      |      |-- Exclude stones, renal mass, UTIs
+    |      |      |-- Expectant observation for single episode of gross hematuria
+    |      |
+    |      |-- Importance of Herbal Medication History
+    |      |      |-- Prudent to rule out urothelial tumor risk
+```
+
+
+###################################################
+
+
+```plaintext
+Infection-Related Glomerulonephritis (IRGN)
+    |-- Treatment
+    |      |-- Supportive Care
+    |      |      |-- Aim: Address infectious etiology
+    |      |
+    |      |-- Antibiotics
+    |      |      |-- Nafcillin (Option C)
+    |      |      |      |-- Most appropriate treatment
+    |      |      |      |-- Effective for Staphylococcus aureus
+    |      |
+    |      |-- Glucocorticoids
+    |      |      |-- Prednisone (Option B)
+    |      |      |      |-- Rarely indicated
+    |      |      |      |-- Consider if severe proliferative glomerulonephritis
+    |      |      |      |-- Not indicated in this patient
+    |      |
+    |      |-- ACE Inhibitors
+    |      |      |-- Lisinopril (Option A)
+    |      |      |      |-- Not recommended during acute kidney injury
+    |      |      |      |-- Reasonable in long-term follow-up if CKD develops
+    |      |
+    |      |-- Diuretics
+    |      |      |-- Loop Diuretics (Option D)
+    |      |      |      |-- Indicated for hypertension and edema
+    |      |      |      |-- Not indicated in this patient (no hypertension or edema)
+    |
+    |-- Prognosis
+    |      |-- Children
+    |      |      |-- Excellent recovery
+    |      |
+    |      |-- Adults
+    |      |      |-- Less favorable prognosis for newly recognized forms
+    |      |      |      |-- Staphylococcus aureus and gram-negative organisms
+    |      |      |      |-- Higher risk of severe kidney dysfunction
+    |      |      |      |-- Progression to chronic kidney disease (CKD) and end-stage kidney disease
+    |
+    |-- Risk Factors
+    |      |-- Comorbidities
+    |      |      |-- Diabetes mellitus (most common)
+    |      |
+    |      |-- Age
+    |      |      |-- Older age (>65 years)
+```
+
+
+###################################################
+
+
+```plaintext
+Kidney Function Evaluation
+    |-- Serum Cystatin C Measurement
+    |      |-- More sensitive than serum creatinine for mild decrements in kidney function
+    |      |-- Less influenced by age, sex, muscle mass, and body weight
+    |      |-- Produced by all nucleated cells
+    |      |-- Completely filtered by glomeruli and metabolized by renal tubules
+    |      |-- Index of GFR
+    |
+    |-- Serum Creatinine Measurement
+    |      |-- Altered by muscle mass
+    |      |      |-- Increased muscle mass → elevated serum creatinine
+    |      |      |-- Decreased muscle mass → underestimates kidney function in older persons
+    |      |-- Overestimates kidney function in older persons, especially women
+    |
+    |-- Blood Urea Nitrogen (BUN) (Option A)
+    |      |-- Derived from protein metabolism
+    |      |-- Poor marker of kidney function
+    |      |      |-- Not produced at a constant rate
+    |      |      |-- Reabsorbed along tubules
+    |      |      |-- Influenced by renal blood flow
+    |
+    |-- Creatinine Clearance Measurement (Option B)
+    |      |-- Direct measurement tends to overestimate GFR
+    |      |-- 24-hour urine collection can estimate GFR
+    |      |      |-- Prone to collection errors
+    |      |      |-- Unnecessarily burdensome for patients
+    |
+    |-- Radionuclide Imaging (Option C)
+    |      |-- Gold standard for GFR measurement in research
+    |      |-- Useful for kidney donor evaluation and differential GFR assessment
+    |      |-- Unnecessary for this patient due to availability of serum cystatin C
+```
+
+
+###################################################
+
+
+```plaintext
+Amyloidosis Diagnosis and Differentiation
+    |-- Pathologic Diagnosis
+    |      |-- Gold Standard
+    |      |      |-- Apple-green birefringence with Congo red stain
+    |      |      |-- Examined under polarized light
+    |
+    |-- Renal AL Amyloidosis (Option D)
+    |      |-- Characteristics
+    |      |      |-- Extracellular tissue deposition of fibrillary protein
+    |      |      |-- Most common form: 60-65% of renal amyloidosis cases
+    |      |      |-- Derived from monoclonal immunoglobulin light chains (AL amyloid)
+    |      |
+    |      |-- Patient Presentation
+    |      |      |-- Age > 50 years
+    |      |      |-- Predominantly male
+    |      |      |-- Nephrotic-range proteinuria (25-50% with full nephrotic syndrome)
+    |      |      |-- Renal insufficiency
+    |      |
+    |      |-- Diagnostic Testing
+    |      |      |-- Serum and urine protein electrophoresis with immunofixation
+    |      |      |-- Quantification of serum free light chains (κ, λ) - more sensitive
+    |
+    |-- Diabetic Kidney Disease (Option A)
+    |      |-- Characteristics
+    |      |      |-- Occurs after long-standing type 2 diabetes (>10 years)
+    |      |      |-- Associated with microvascular/macrovascular complications (e.g., diabetic retinopathy)
+    |      |
+    |      |-- Diagnosis
+    |      |      |-- Kidney biopsy needed in absence of characteristic findings
+    |
+    |-- IgA Nephropathy (IgAN) (Option B)
+    |      |-- Characteristics
+    |      |      |-- Most common primary glomerular disease worldwide
+    |      |      |-- Usually diagnosed in youth/early adulthood
+    |      |      |-- Can present with nephritic syndrome manifestations
+    |      |
+    |      |-- Diagnosis
+    |      |      |-- Kidney biopsy showing dominant mesangial immune deposits of IgA with C3
+    |      |      |-- Not compatible with older patients presenting with nephrotic syndrome
+    |
+    |-- Membranous Nephropathy (Option C)
+    |      |-- Characteristics
+    |      |      |-- Slowly progressive edema
+    |      |      |-- Laboratory findings: proteinuria, hypoalbuminemia, hyperlipidemia
+    |      |      |-- Preserved kidney function
+    |      |
+    |      |-- Diagnosis
+    |      |      |-- Kidney biopsy traditionally required
+    |      |      |-- Serologic testing for anti-phospholipase A2 receptor antibodies allows noninvasive diagnosis
+    |      |      |-- Hallmark biopsy finding: subepithelial immune deposits
+```
+
+
+###################################################
+
+
+```plaintext
+Minimal Change Glomerulopathy (MCG) with Acute Kidney Injury (AKI)
+    |-- Presentation
+    |      |-- Sudden-onset nephrotic syndrome
+    |      |      |-- Abrupt edema appearance
+    |      |      |-- Possible progression to anasarca
+    |
+    |-- Epidemiology
+    |      |-- Most common cause of nephrotic syndrome in children (>90%)
+    |      |-- Responsible for 10-15% of nephrotic syndrome cases in adults
+    |      |      |-- Higher prevalence in older patients (≥65 years)
+    |      |      |-- Increased incidence in elderly patients (≥80 years)
+    |
+    |-- Associated Conditions
+    |      |-- Acute Kidney Injury (AKI)
+    |      |      |-- Up to 25% of adults with MCG may have AKI
+    |      |      |-- Higher risk factors
+    |      |            |-- Older age
+    |      |            |-- Hypertension
+    |      |            |-- Low serum albumin levels
+    |      |            |-- Heavy proteinuria
+    |
+    |-- Differential Diagnosis
+    |      |-- ANCA-associated glomerulonephritis
+    |      |      |-- Causes severe AKI
+    |      |      |-- Presents with hematuria and subnephrotic-range proteinuria
+    |      |
+    |      |-- Anti-glomerular basement membrane antibody disease
+    |      |      |-- Causes severe AKI
+    |      |      |-- Presents with hematuria and subnephrotic-range proteinuria
+    |      |
+    |      |-- Membranous Nephropathy
+    |      |      |-- Can cause nephrotic syndrome and AKI
+    |      |      |-- AKI usually due to renal vein thrombosis (not present in this case)
+    |      |      |-- More common in middle-aged adults
+    |      |      |-- Unusual in patients >75 years unless malignancy is present
+    |      |      |-- Onset of edema is slower than in MCG
+    |
+    |-- Conclusion
+    |      |-- Most likely diagnosis: Minimal Change Glomerulopathy (MCG)
+```
+
+
+###################################################
+
+
+```plaintext
+Tolvaptan for Autosomal Dominant Polycystic Kidney Disease (ADPKD)
+    |-- Indication
+    |      |-- Slows kidney function decline in adults at risk for progressive ADPKD
+    |
+    |-- Risk Factors for Progression to End-Stage Kidney Disease (ESKD)
+    |      |-- Onset of hypertension before 35 years of age
+    |      |-- Urologic events before 35 years of age
+    |      |      |-- Gross hematuria
+    |      |      |-- Cyst infection
+    |      |      |-- Flank pain
+    |      |-- Estimated glomerular filtration rate decrease >5 mL/min/1.73 m² within 1 year
+    |      |-- Family history of ESKD at or before 58 years of age
+    |      |-- Other Risk Factors
+    |              |-- Male sex
+    |              |-- Total kidney volume greater than expected for age
+    |              |-- Truncating PKD1 variant
+    |
+    |-- Treatment Strategy
+    |      |-- Tolvaptan (Option D)
+    |      |      |-- FDA approved in 2018 for slowing kidney function decline
+    |      |
+    |      |-- Renin-Aldosterone System Blockade
+    |      |      |-- Staple of ADPKD management
+    |      |      |-- Blood pressure control with ACE inhibitor
+    |      |      |-- No benefit from switching to angiotensin receptor blocker (e.g., telmisartan) (Option A)
+    |
+    |-- Assessment of Kidney Volume
+    |      |-- Importance in assessing risk for ESKD
+    |      |-- Ultrasonography (Option B)
+    |      |      |-- Acceptable for kidney size and cyst burden
+    |      |      |-- Inferior to MRI for total kidney volume measurement
+    |      |-- Patient does not require total kidney volume measurement to initiate tolvaptan
+    |
+    |-- Alternative Treatments
+    |      |-- Octreotide (Option C)
+    |      |      |-- Reduces kidney cyst fluid accumulation
+    |      |      |-- Does not slow decline in kidney function compared to tolvaptan
+```
+
+
+###################################################
+
+
+```plaintext
+Primary Hyperaldosteronism
+    |-- Definition
+    |      |-- Most common cause of secondary hypertension
+    |
+    |-- Key Clinical Indicators
+    |      |-- Resistant Hypertension
+    |      |-- Hypokalemia
+    |      |-- Family History of Early-Onset Hypertension
+    |      |-- Blood Pressure > 160/100 mm Hg
+    |      |-- Stroke at Age < 40 Years
+    |
+    |-- Diagnostic Approach
+    |      |-- Screening Test
+    |      |      |-- Plasma Aldosterone Concentration/Plasma Renin Activity Ratio
+    |      |
+    |      |-- Next Diagnostic Test
+    |      |      |-- Plasma Aldosterone Concentration/Plasma Renin Activity Ratio (Option A)
+    |
+    |-- Clinical Presentation
+    |      |-- Triad of Symptoms
+    |      |      |-- Resistant Hypertension
+    |      |      |-- Metabolic Alkalosis
+    |      |      |-- Hypokalemia (including on low-dose thiazide diuretics)
+    |      |
+    |      |-- Common Findings
+    |      |      |-- Normal Serum Potassium Levels
+    |      |      |-- Substantial Hypokalemia (e.g., 2.9 mEq/L)
+    |      |      |-- Persistent Moderately Severe Hypertension
+    |
+    |-- Differential Diagnosis
+    |      |-- Pheochromocytoma (Option B)
+    |      |      |-- Symptoms: Episodic Palpitations, Headaches, Tachycardia absent
+    |      |      |-- Less Likely due to Metabolic Alkalosis and Hypokalemia
+    |
+    |      |-- Renovascular Disease (Option C)
+    |      |      |-- Appropriate Screening: Renal Artery CT Angiography
+    |      |      |-- Clinical Indicators: Older age, Atherosclerosis, Abdominal Bruits absent
+    |      |      |-- Abrupt Onset of Hypertension < 35 Years suggests Fibromuscular Dysplasia
+    |
+    |      |-- Hypercortisolism (Cushing Syndrome) (Option D)
+    |      |      |-- Screening: 24-hour Urine Free Cortisol
+    |      |      |-- Rare compared to Primary Hyperaldosteronism
+    |      |      |-- Unlikely without Cushingoid Features (e.g., Central Obesity, Muscle Weakness)
+```
+
+
+###################################################
+
+
+```plaintext
+Manage Edema in Nephrotic Syndrome
+    |-- Key Management Strategy
+    |      |-- Add Thiazide Diuretic and/or Potassium-Sparing Diuretic
+    |      |      |-- Most Appropriate: Metolazone (Option A)
+    |
+    |-- Patient Profile
+    |      |-- Diagnosis: Nephrotic Syndrome due to FSGS
+    |      |-- Condition: Refractory Edema
+    |      |-- Current Therapy: Maximal Oral Furosemide
+    |
+    |-- Pathophysiology
+    |      |-- High-Dose Loop Diuretics
+    |      |      |-- Increases salt and water delivery to distal nephron
+    |      |      |-- Leads to hypertrophy of distal nephron segments
+    |      |      |-- Results in sodium overabsorption, undermining loop diuretic effects
+    |
+    |-- Indications for IV Diuretics Admission
+    |      |-- Lack of Response to Thiazide/Potassium-Sparing Diuretic Addition
+    |      |-- Acute Respiratory Symptoms from Pulmonary Edema
+    |      |-- Significant Ascites Raising Concern for Gut Edema
+    |
+    |-- Clinical Trial Insights
+    |      |-- Continuous IV Infusion vs. IV Bolus Therapy
+    |      |      |-- Less Ototoxicity with Continuous Infusion
+    |      |      |-- No Clear Diuretic Superiority Established
+    |
+    |-- Therapy Considerations
+    |      |-- Glucocorticoid Therapy
+    |      |      |-- First-Line: Prednisone
+    |      |      |-- Duration: 3 Weeks (premature to consider refractory)
+    |      |      |-- Response Time: Up to 12-16 Weeks in Adults with FSGS
+    |      |
+    |      |-- Cyclosporine (Option D)
+    |      |      |-- Not Appropriate at This Time (second-line therapy)
+    |
+    |-- Hemodialysis with Ultrafiltration (Option E)
+    |      |-- Reserved for:
+    |      |      |-- Anasarca
+    |      |      |-- Significant Kidney Dysfunction
+    |      |      |-- Inability to Diurese on Maximal IV Diuretics
+```
+
+
+###################################################
+
+
+```plaintext
+Crystal-Induced Acute Kidney Injury (AKI)
+    |-- Etiology
+    |      |-- Intravenous Acyclovir
+    |      |      |-- Causes intratubular obstruction
+    |      |      |-- Crystal precipitation in tubular lumen
+    |
+    |-- Pathogenesis
+    |      |-- Volume Depletion
+    |      |      |-- Critical for prevention and treatment
+    |      |-- Predisposing Factors
+    |      |      |-- Chronic Kidney Disease
+    |      |      |-- Volume Depletion
+    |
+    |-- Clinical Presentation
+    |      |-- Urinary Findings
+    |      |      |-- Hematuria
+    |      |      |-- Pyuria
+    |      |      |-- Crystals
+    |
+    |-- Management
+    |      |-- Aggressive Volume Expansion
+    |      |-- Discontinue Acyclovir if possible
+    |
+    |-- Differential Diagnosis
+    |      |-- Acute Glomerulonephritis (Option A)
+    |      |      |-- Unlikely cause
+    |      |      |-- Hereditary nephritis leads to chronic changes, not acute
+    |      |-- Acute Interstitial Nephritis (AIN) (Option B)
+    |      |      |-- Common cause of AKI (10-30% with fever, rash, eosinophilia)
+    |      |      |-- Drug-induced AIN (antibiotics) most common
+    |      |      |-- Develops in 7-10 days, characterized by pyuria and leukocyte casts
+    |      |      |-- Not consistent with this patient’s urinalysis
+    |      |-- Acute Tubular Necrosis (ATN) (Option C)
+    |      |      |-- Suggested by pigmented brown casts and debris
+    |      |      |-- Not seen in this patient's urinalysis
+```
+
+
+###################################################
+
+
+```plaintext
+Mycophenolate Mofetil Discontinuation
+    |-- Indications for Discontinuation
+    |      |-- Planning Pregnancy
+    |      |-- Teratogenic Effects
+    |            |-- Contraindicated in Pregnancy
+    |            |-- Risks: 
+    |                  |-- First-trimester pregnancy loss
+    |                  |-- Fetal malformations (distal limbs, heart, esophagus, kidneys, cleft lip/palate)
+    |
+    |-- Recommendations
+    |      |-- Discontinue Mycophenolate Mofetil
+    |      |-- Ensure Disease Stability
+    |            |-- Stable for 3 to 6 months before pregnancy
+    |      |-- Switch to Azathioprine if Immunosuppression Required
+    |
+    |-- Other Medications
+    |      |-- Hydroxychloroquine (Option A)
+    |            |-- Safe in Pregnancy
+    |            |-- Benefits:
+    |                  |-- Reduces disease-associated damage
+    |                  |-- Prevents disease flares
+    |                  |-- Improves kidney and overall survival
+    |                  |-- Reduces risk for thrombosis, liver disease, myocardial infarction
+    |                  |-- Improves lipid profiles and outcomes in high-risk pregnancies
+    |
+    |      |-- Glucocorticoids (Option C)
+    |            |-- Risks: 
+    |                  |-- Increased risk for pregnancy-induced hypertension and diabetes
+    |            |-- Can be continued if benefits outweigh risks
+    |            |-- Management Strategies:
+    |                  |-- Use lowest dose possible for shortest duration
+    |                  |-- Manage preexisting conditions (osteoporosis, diabetes, hypertension)
+    |                  |-- Monitor for adverse effects and intervene early
+    |
+    |      |-- No Changes (Option D)
+    |            |-- Not Appropriate
+    |                  |-- Mycophenolate Mofetil is teratogenic
+```
+
+
+###################################################
+
+
+```plaintext
+Diabetic Kidney Disease Treatment
+    |-- First-Line Treatment
+    |      |-- Sodium-Glucose Cotransporter 2 Inhibitors
+    |      |      |-- Canagliflozin (Option A)
+    |      |      |      |-- Slows progression of chronic kidney disease (CKD)
+    |      |      |      |-- Reduces risk of death from kidney/cardiovascular complications
+    |
+    |-- Additional Treatment Options
+    |      |-- Glucagon-Like Peptide-1 Receptor Agonists
+    |      |      |-- Liraglutide
+    |      |      |      |-- Reduces risks of cardiovascular events and hypoglycemia
+    |      |      |      |-- Possibly slows CKD progression
+    |
+    |-- Proven Interventions for CKD
+    |      |-- Glycemic Control
+    |      |-- Blood Pressure Control
+    |      |-- Renin-Angiotensin System (RAS) Blockers
+    |      |-- Finerenone
+    |      |-- Avoidance of Renal Toxins
+    |
+    |-- Contraindicated or Ineffective Options
+    |      |-- Glyburide (Option B)
+    |      |      |-- Second-generation sulfonylurea
+    |      |      |-- Neutral effect on CKD progression
+    |      |      |-- Risk of hypoglycemia in CKD
+    |
+    |      |-- Pioglitazone (Option D)
+    |      |      |-- Thiazolidinedione
+    |      |      |-- Neutral effect on CKD progression
+    |      |      |-- Caution due to potential fluid retention
+    |
+    |      |-- Sitagliptin (Option E)
+    |      |      |-- Dipeptidyl Peptidase 4 Inhibitor
+    |      |      |-- Neutral effect on CKD progression
+    |
+    |      |-- Losartan (Option C)
+    |      |      |-- Angiotensin Receptor Blocker (ARB)
+    |      |      |-- Contraindicated with Lisinopril (ACE inhibitor)
+    |      |      |-- Dual blockade increases adverse events without additional kidney benefit
+```
+
+
+###################################################

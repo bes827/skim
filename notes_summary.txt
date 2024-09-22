@@ -1,0 +1,1092 @@
+
+
+Manage vaccinations in patients with chronic kidney disease.  
+- Patients with CKD and ESKD should receive either the 20-valent or 15-valent pneumococcal conjugate vaccine followed by the 23-valent pneumococcal polysaccharide vaccine.  ***
+- Annual influenza vaccination is crucial due to increased morbidity and mortality risks in CKD patients.  
+
+Additional clinically relevant information:  
+- In adults aged 19 to 64 with CKD, pneumococcal vaccination with PCV20 or both PCV15 and PPSV23 is indicated.  
+- If administering PCV15 and PPSV23, give PCV15 first, followed by PPSV23 at least 8 weeks later.  
+- Patients with CKD should receive hepatitis B vaccination if not already immune, especially those on hemodialysis.  
+- Hepatitis A vaccination is indicated for CKD patients traveling to endemic areas or at risk for infection.  
+- The herpes zoster vaccine is recommended for adults over 50 years, following general population guidelines.  
+
+Potential serious clinical pitfalls:  
+- Overlooking the need for pneumococcal vaccination in CKD patients.  
+- Neglecting annual influenza vaccination can lead to increased hospitalization and mortality.  
+- Failing to vaccinate against hepatitis B in at-risk patients, even if they are on hemodialysis.  
+- Incorrect timing of pneumococcal vaccines can diminish immune response.
+
+
+
+
+
+Contrast-Associated Acute Tubular Necrosis  
+- Contrast-associated nephropathy (CAN) leads to acute tubular necrosis (ATN).  
+- Characterized by a rise in serum creatinine 24 to 48 hours post-contrast exposure.  
+
+Additional Clinically Relevant Information:  
+- Risk factors for CAN include chronic kidney injury, type 2 diabetes mellitus, and large volume contrast exposure.  
+- Typical laboratory findings: BUN-creatinine ratio of 15:1, urine specific gravity of 1.010, urine sodium >40 mEq/L, and urine sediment may show granular casts.  
+- Atheroembolic-induced acute kidney injury is characterized by a delayed rise in serum creatinine, often with external signs like livedo reticularis.  
+- Clopidogrel can cause hemolytic uremic syndrome, but this typically presents with significant anemia and thrombocytopenia.  
+- Prerenal acute kidney injury is unlikely without hypovolemia signs and usually has a BUN-creatinine ratio >20:1.  
+
+Potential Serious Clinical Pitfalls:  
+- Misdiagnosing CAN as prerenal acute kidney injury due to overlapping symptoms.  
+- Delayed recognition of atheroembolic injury, leading to inappropriate management.  
+- Overlooking the significance of urine sodium levels in diagnosing ATN.
+
+
+
+
+
+Salicylate Toxicity Treatment  
+  - Intravenous sodium bicarbonate is the most appropriate treatment. It increases urinary elimination of salicylate and protects against CNS toxicity.  ***
+  - A urine pH goal of >7.5 is essential for effective treatment to trap salicylic acid in the renal tubule and promote its excretion.  
+  - Maintaining serum pH at 7.50 to 7.55 is crucial to prevent CNS accumulation of salicylic acid.  
+
+Additional Clinically Relevant Information  
+  - Salicylate toxicity can present as respiratory alkalosis or mixed acid-base disorders, including anion gap metabolic acidosis.  
+  - Acetazolamide is contraindicated; it may lead to systemic acidosis and increase CNS salicylate levels.  
+  - Hemodialysis is indicated for serum salicylate levels >90-100 µg/mL in acute intoxication or >60 µg/mL in chronic cases, along with specific clinical conditions.  ***
+  - Forced diuresis with 0.9% saline is ineffective without systemic and urinary alkalinization.  
+
+Potential Serious Clinical Pitfalls  
+  - Misuse of acetazolamide can worsen CNS toxicity.  
+  - Delaying hemodialysis in severe cases can lead to complications like cerebral edema or severe mental status alterations.  
+  - Failure to achieve target urine and serum pH can result in inadequate salicylate elimination.
+
+
+
+
+
+Lupus Nephritis Diagnosis  
+- Kidney biopsy is the definitive diagnostic test for lupus nephritis.  
+- Histologic findings from the biopsy guide treatment decisions.  
+
+Additional Clinically Relevant Information:  
+- The 2019 EULAR/ACR classification criteria for SLE require a positive ANA, at least one clinical criterion, and ≥10 points for diagnosis.  
+- This patient has a positive ANA, acute cutaneous lupus erythematosus, and low serum complement levels, totaling 10 points.  
+- Lupus nephritis is classified into six distinct histologic classes, which influence treatment strategies.  
+- Erythrocyte sedimentation rate (ESR) helps gauge disease activity but does not determine the class of lupus nephritis.  
+- Extractable nuclear antigen (ENA) panel tests are not necessary for SLE diagnosis and do not alter treatment plans compared to kidney biopsy results.  
+
+Potential Serious Clinical Pitfalls:  
+- Misdiagnosing lupus nephritis without a kidney biopsy can lead to inappropriate treatment.  
+- Relying solely on ESR or ENA panel results may delay definitive diagnosis and management.  
+- Skin biopsy is unnecessary in the presence of classic clinical findings for acute cutaneous lupus erythematosus.
+
+
+
+
+
+Renal Replacement Therapy Education for End-Stage Kidney Disease  
+  - Patients with eGFR <30 mL/min/1.73 m² should be referred for RRT education.  
+  - RRT education enables informed decisions about modalities like hemodialysis, peritoneal dialysis, and kidney transplantation.  
+
+Additional Clinically Relevant Information:  
+  - Early education may lead to a higher likelihood of choosing home dialysis or preemptive kidney transplantation.  
+  - Patients who receive preparatory RRT education may experience a mortality benefit compared to those who do not.  
+  - AVF placement is indicated only after the decision to proceed with hemodialysis is made.  
+  - Referral for kidney transplant evaluation is optimal when eGFR is 15-29 mL/min/1.73 m² to improve clinical outcomes.  ***
+  - Preemptive kidney transplants are associated with better outcomes than transplants after starting dialysis.  
+
+Potential Serious Clinical Pitfalls:  
+  - Delaying RRT education can lead to emergent dialysis initiation.  
+  - Failure to refer for transplant evaluation at the appropriate eGFR may hinder timely access to transplantation options.  
+  - Starting dialysis in asymptomatic patients may not provide benefits over watchful waiting.
+
+
+
+
+
+Calciphylaxis in End-Stage Kidney Disease  
+  - Calciphylaxis is characterized by calcifications in dermal arterioles, leading to painful ischemic skin lesions.  
+  - It is a serious complication of end-stage kidney disease (ESKD) with a high risk of mortality due to secondary infections and sepsis.  ***
+
+Additional Clinically Relevant Information:  
+  - Patients often have severe secondary hyperparathyroidism and elevated calcium-phosphorous product, but those with normalized serum levels are also at risk.  ***
+  - There are no FDA-approved treatments for calciphylaxis; however, calcimimetics can suppress parathyroid hormone levels.  
+  - Sodium thiosulfate is commonly used and has anti-inflammatory properties.  
+  - Calciphylaxis is increasingly recognized in the dialysis community, highlighting the need for awareness among clinicians.  
+
+Potential Serious Clinical Pitfalls:  
+  - Misdiagnosis can occur if calciphylaxis is confused with leukocytoclastic vasculitis or venous stasis ulcers.  
+  - Rapidly advancing ulcers with necrosis should raise suspicion for calciphylaxis rather than typical venous ulcers.  
+  - Warfarin-related necrosis may be misinterpreted; it usually presents with thrombosis rather than calcifications.
+
+
+
+
+
+Fibromuscular Dysplasia  
+- Typically occurs in young persons, especially women <35 years of age.  
+- Characterized by abrupt onset of hypertension and may present with an abdominal bruit.  
+- Renal artery CT angiography (CTA) is the initial imaging modality of choice for diagnosis.  
+
+Additional Clinically Relevant Information:  
+- Fibromuscular dysplasia is a noninflammatory, nonatherosclerotic condition affecting medium-sized arteries.  
+- Patients are at risk for aneurysm formation and/or dissection, commonly in renal, carotid, and intracranial arteries.  
+- A one-time assessment for intracranial aneurysm is recommended using brain CTA or MRA.  
+- Contrast-enhanced MRA is an alternative if CTA is contraindicated.  
+- Duplex ultrasound may be used in specialized centers with expertise in this imaging modality.  
+
+Potential Serious Clinical Pitfalls:  
+- Misdiagnosis can occur if primary hyperaldosteronism is assumed without hypokalemia or metabolic alkalosis.  
+- Pheochromocytoma may be incorrectly considered if symptoms like palpitations or headaches are not present.  
+- Failing to assess for intracranial aneurysm in patients with fibromuscular dysplasia can lead to serious complications.***
+
+
+
+
+
+Type 4 (Hyperkalemic Distal) Renal Tubular Acidosis  
+- Commonly caused by diabetes mellitus.  
+- Characterized by hyperkalemia, normal anion gap metabolic acidosis, and urine pH <5.5.  
+
+Additional Clinically Relevant Information:  
+- Drug-induced type 4 RTA can occur from ACE inhibitors, angiotensin receptor blockers, heparin, and NSAIDs.  
+- Type 4 RTA results from aldosterone deficiency or resistance; hyporeninemic hypoaldosteronism is more common, especially in diabetes.  
+- Patients have a positive urine anion gap due to reduced ammonium excretion, leading to low urine pH.  
+- Metabolic acidosis typically develops when GFR <40 mL/min/1.73 m² in chronic kidney disease.  ***
+- Diarrhea causes a negative urine anion gap, differentiating it from type 4 RTA.  
+
+Potential Serious Clinical Pitfalls:  
+- Confusing type 4 RTA with chronic kidney disease, where acidosis typically occurs at lower GFR.  
+- Misinterpreting the urine anion gap; a positive gap indicates type 4 RTA, while a negative gap suggests diarrhea.  
+- Overlooking the role of medication in causing hyperkalemia and metabolic acidosis.
+
+
+
+
+
+Acute Tubular Necrosis Due to Rhabdomyolysis  
+  - Rhabdomyolysis leads to acute tubular necrosis (ATN) primarily through myoglobin toxicity and renal vasoconstriction.  
+  - Elevated serum creatine kinase (CK) levels, particularly >5000 U/L, are indicative of rhabdomyolysis.  
+
+Additional Clinically Relevant Information:  
+  - Associated electrolyte imbalances include hyperkalemia, hypocalcemia, hyperphosphatemia, and hyperuricemia.  
+  - Urinary findings include pigmented granular casts, myoglobinuria, and a urine dipstick positive for blood without significant erythrocytes.  
+  - Fractional excretion of sodium <1% suggests renal vasoconstriction due to ATN.  
+  - Rhabdomyolysis can occur after extreme physical exertion, especially in inadequately conditioned individuals.  
+
+Potential Serious Clinical Pitfalls:  
+  - Confusion with immune-mediated necrotizing myopathy, which does not cause ATN.  
+  - Misdiagnosis with inflammatory myopathies, which typically present without renal involvement.  
+  - Overlooking the risk of acute kidney injury in patients with elevated CK levels and muscle symptoms.
+
+
+
+
+
+Manage Chronic Hypertension Before Conception  
+- Discontinue renin-angiotensin system blocking agents (ACE inhibitors, ARBs, direct renin inhibitors, mineralocorticoid receptor antagonists) before conception due to contraindications in pregnancy.  
+- Maintain systolic blood pressure <140 mm Hg and diastolic pressure <90 mm Hg in pregnant patients, per ACOG and SMFM guidelines.  
+
+Additional Clinically Relevant Information:  
+- The American College of Obstetricians and Gynecologists (ACOG) updated the blood pressure threshold in 2022 based on the Chronic Hypertension and Pregnancy trial.  
+- Safe antihypertensive alternatives during pregnancy include labetalol, nifedipine, and methyldopa.  ***
+- Exposure to renin-angiotensin system blockers during the second and third trimesters is associated with neonatal kidney failure and death.  ***
+- Discontinuing contraindicated antihypertensives should be followed by initiating a safe alternative to prevent blood pressure spikes.  
+
+Potential Serious Clinical Pitfalls:  
+- Not discontinuing ramipril before conception can lead to unsafe maternal and fetal outcomes.  
+- Preemptively stopping antihypertensive therapy without a safe replacement may result in uncontrolled hypertension.
+
+
+
+
+
+Nonglomerular Causes of Increased Serum Creatinine Levels  
+- Some medications can reduce proximal tubule secretion of creatinine.  
+- Drugs such as cimetidine, trimethoprim, cobicistat, dolutegravir, and bictegravir can cause nonprogressive increases in serum creatinine without affecting GFR.  
+
+Clinically Relevant Information:  
+- Serum creatinine may increase by 0.2 to 0.3 mg/dL (17.7-26.5 µmol/L) with these medications.  
+- In patients with chronic kidney disease (CKD), creatinine secretion contributes more to creatinine clearance.  
+- In CKD patients, serum creatinine elevations from integrase inhibitors or cobicistat stabilize within 1 to 2 weeks of initiation.  
+- Absence of other kidney disease signs (hematuria, pyuria, increasing proteinuria) indicates no further evaluation is necessary.  
+- Serum cystatin C level can be a helpful confirmatory test as it is not affected by these medications.  
+
+Potential Serious Clinical Pitfalls:  
+- Discontinuing antihypertensive medications like lisinopril-hydrochlorothiazide may be unnecessary.  
+- A 24-hour urine creatinine clearance may be misleading due to drug-related lower creatinine secretion.  
+- Returning to a prior antiretroviral regimen is not warranted if serum creatinine changes are not indicative of GFR decline.
+
+
+
+
+
+Resistant Hypertension  
+  - Resistant hypertension is defined as blood pressure above goal despite three antihypertensive agents of different classes or controlled BP requiring four or more medications, one of which must be a diuretic.  
+  - The first-line treatment for resistant hypertension is to add a thiazide diuretic, preferably chlorthalidone, due to its longer half-life and efficacy in reducing cardiovascular events.  ***
+
+Additional Clinically Relevant Information:  
+  - Hydrochlorothiazide is commonly used but chlorthalidone may be more effective for once-daily dosing.  
+  - Primary hyperaldosteronism should be suspected in cases of sustained hypertension over 150/100 mm Hg on three medications, resistant hypertension, or hypertension with hypokalemia.  
+  - Testing for plasma aldosterone concentration/plasma renin activity ratio is unnecessary without clinical suspicion of primary hyperaldosteronism.  
+  - Pheochromocytoma screening via plasma fractionated metanephrines is indicated only with specific clinical signs, such as paroxysmal hypertension or episodic symptoms.  
+  - Renal artery imaging is not warranted without signs of renal artery stenosis, such as severe hypertension in older patients or acute kidney injury after starting certain antihypertensives.  
+
+Potential Serious Clinical Pitfalls:  
+  - Failing to add a diuretic before diagnosing resistant hypertension may delay appropriate management.  
+  - Misdiagnosing or over-testing for secondary causes of hypertension without clear indications can lead to unnecessary procedures and anxiety.  
+  - Ignoring the potential for primary hyperaldosteronism in patients with resistant hypertension may result in inadequate treatment.
+
+
+
+
+
+Abdominal Compartment Syndrome  
+- Defined as sustained intra-abdominal pressure >20 mm Hg with at least one organ dysfunction.  ***
+- Diagnosis confirmed via bladder pressure measurement as a surrogate for intra-abdominal pressure.  
+
+Additional Clinically Relevant Information:  
+- Consider in settings like abdominal surgery, trauma, intra-abdominal bleeding, ascites, bowel obstruction, ileus, or pancreatitis.  
+- Can result from capillary leak due to sepsis and massive fluid resuscitation.  
+- Surgical decompression is the appropriate treatment for abdominal compartment syndrome.  
+- Bladder pressure measurement is the most direct and relevant diagnostic test in suspected cases.  
+
+Potential Serious Clinical Pitfalls:  
+- Relying on imaging tests like CT urography or MRI, which are not useful for diagnosing ACS.  
+- Delaying bladder pressure measurement may lead to worsened organ dysfunction.  
+- Misdiagnosing symptoms due to other conditions, potentially overlooking ACS.
+
+
+
+
+
+Isovolemic Hypernatremia Treatment  
+- The primary treatment is water, administered orally or via nasogastric tube if the patient cannot drink.  ***
+- Correct serum sodium levels at a rate of <10 mEq/L (10 mmol/L) daily.  ***
+- For every 100-mg/dL (5.6-mmol/L) decrease in serum glucose, serum sodium increases by approximately 2.0 mEq/L (2.0 mmol/L).  
+
+Additional Clinically Relevant Information:  
+- The patient’s water deficit is approximately 4500 mL.  
+- Administration of 5% dextrose may worsen hyperglycemia and increase water losses due to osmotic diuresis.  
+- 0.45% normal saline requires at least 9 liters to correct hypernatremia effectively.  
+- 0.9% saline will not improve hypernatremia and may worsen hyperchloremic metabolic acidosis.  
+- Most authorities recommend a maximum decrease of serum sodium by 10 mEq/L (10 mmol/L) daily to avoid complications.  
+
+Potential Serious Clinical Pitfalls:  
+- Rapid correction of serum sodium can lead to serious complications.  
+- Administering glucose-containing solutions in hyperglycemic patients can exacerbate hyperglycemia and further dehydration.  
+- Using isotonic saline in hypernatremic patients may worsen their condition and blood pressure.
+
+
+
+
+
+Hypertension Management in Advanced Chronic Kidney Disease  
+- Loop diuretics, like furosemide, are indicated for hypertension in advanced CKD.  ***
+- ACE inhibitors and ARBs are first-line treatments but should not be combined due to risks.  
+
+Additional Clinically Relevant Information:  
+- Patients with stage G4 CKD may have an estimated glomerular filtration rate (eGFR) <30 mL/min/1.73 m².  
+- Thiazide diuretics are ineffective in patients with eGFR <30 mL/min/1.73 m².  ***
+- Suboptimal blood pressure control often arises from not including diuretics in treatment.  
+- Jugular venous distention and lower extremity edema indicate a sodium-retentive state.  
+
+Potential Serious Clinical Pitfalls:  
+- Combining an ACE inhibitor with an ARB can lead to acute kidney injury and hyperkalemia.  
+- β-blockers do not address expanded extracellular volume and are inappropriate without compelling indications.  
+- Hydralazine may worsen extracellular volume expansion and lead to inadequate blood pressure control.
+
+
+
+
+
+Manage venous access for a patient with chronic kidney disease.  
+  - Avoid peripherally inserted central catheters (PICCs) in patients with an estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m².  ***
+  - Internal jugular vein insertion of a central venous catheter is preferred for venous access.  
+  - Arteriovenous fistula (AVF) is the safest and most durable option for future renal replacement therapy.  
+
+Additional clinically relevant information:  
+  - AVFs have superior clinical outcomes compared to arteriovenous grafts.  ***
+  - PICC lines are associated with a 15% to 20% lower likelihood of transitioning to a working fistula or graft.  ***
+  - Long-term use of PICC lines increases the risk of death.  
+  - Central venous catheters via the internal jugular vein are less prone to stenosis than subclavian catheters.  
+  - Protect the nondominant arm's veins by limiting phlebotomy and IV catheters for future AVF success.  
+
+Potential serious clinical pitfalls:  
+  - PICC lines can cause significant trauma and venous stenosis, impairing AVF maturation and function.  
+  - Subclavian catheters can lead to subclavian stenosis, affecting dialysis access.  
+  - Central venous stenosis can occur with internal jugular catheters, but they are still preferred over PICCs and subclavian catheters.
+
+
+
+
+
+{Anti–glomerular basement membrane antibody disease}  
+- Characterized by necrotizing & crescentic glomerulonephritis with linear IgG staining on immunofluorescence.  
+- Diagnosis confirmed by measuring anti-GBM antibodies; used to monitor treatment response.  
+
+- RPGN defined as acute & steep rise in serum creatinine + hematuria + proteinuria.  
+- Differential diagnosis includes: *** 
+  - Pauci-immune staining (ANCA-mediated GN)  
+  - Linear staining (anti-GBM GN)  
+  - Granular staining (lupus nephritis)  
+- >50% of patients may have lung involvement (Goodpasture syndrome***); hemoptysis can be a presenting symptom.  
+- Up to 1 in 3 patients may have positive ANCA serologies, usually anti-MPO antibodies; more common in older women.  
+- Successful treatment typically includes glucocorticoids, plasmapheresis, & cyclophosphamide; eradicates serum anti-GBM antibody titer.  
+
+**Potential serious clinical pitfalls:**  
+- Testing for anti-dsDNA antibodies not required if ANA is negative & no granular staining on biopsy.  
+- Anti-PLA2R antibodies not indicated unless primary membranous nephropathy is suspected.  ***
+- IgA nephropathy diagnosis requires specific biopsy findings; circulating IgA levels not useful.
+
+
+
+
+
+IgG4-Related Disease (IgG4-RD)  
+- Patients often present with sentinel organ enlargement & dysfunction.  
+- Kidney involvement typically shows chronic interstitial nephritis (CIN) with fibrosis & lymphoplasmacytic infiltrate.  
+
+- Diagnosis: tissue biopsy shows dense lymphoplasmacytic infiltrate, CD4-positive T cells, IgG4-positive plasma cells, storiform fibrosis, obliterative phlebitis/arteritis, & tissue eosinophilia.  
+- Serum IgG4 levels are elevated in 70-80% of patients; normal levels do not exclude disease.  
+- Initial treatment: prednisone.  
+- Common presentations: idiopathic pancreatitis, sclerosing cholangitis, bilateral salivary/lacrimal gland enlargement, retroperitoneal fibrosis, orbital pseudotumor, proptosis.  
+
+**Potential serious clinical pitfalls:**  
+- Misdiagnosis can occur with sarcoidosis, SLE, or TINU.  
+- Sarcoidosis does not explain idiopathic pancreatitis or lymphoplasmacytic infiltrate on biopsy.  
+- SLE more often presents as acute glomerular disease & is not associated with pancreatitis.  
+- TINU is distinct & typically occurs in adolescents/young women, inconsistent with this patient's presentation.
+
+
+
+
+
+{multiple myeloma as a cause of isotonic hyponatremia}  
+- Step 1 in hyponatremia evaluation: measure serum osmolality.  
+- Isotonic hyponatremia = lab artifact from ↑ plasma lipids/proteins.  ***
+
+- Likely cause: multiple myeloma (supporting labs: ↑ serum calcium, anemia, ↑ total protein, low albumin, ↑ gamma globulin fraction).  
+- Normal serum osmolality = isotonic hyponatremia (275-295 mOsm/kg H2O).  
+- Diluting electrode method can cause spurious sodium values due to ↓ water phase (from ↑ solid phase).  
+- Hypercalcemia causes polyuria & ↑ sodium, not hyponatremia.  ***
+- Decreased solute intake (e.g., potomania/starvation) leads to hyponatremia with urine osmolality <100 mOsm/kg H2O.  
+- Psychogenic polydipsia = excess water intake; urine osmolality <100 mOsm/kg H2O.  
+- SIADH = always low measured serum osmolality; hypo-osmolar hyponatremia.  
+
+Potential serious clinical pitfalls:  
+- Misinterpretation of isotonic hyponatremia as true hyponatremia can lead to inappropriate treatment.  
+- Failing to recognize multiple myeloma as a cause may delay diagnosis & management.  
+- Confusion between different causes of hyponatremia can result in incorrect management strategies.
+
+
+
+
+
+{Surreptitious Vomiting and Metabolic Alkalosis}  
+- Saline-responsive metabolic alkalosis: low urine chloride <15 mEq/L; common causes: vomiting, nasogastric suction, diuretics.  
+- High urine chloride >15 mEq/L + hypertension + hypokalemia -> evaluate for mineralocorticoid excess disorders (Cushing syndrome, primary hyperaldosteronism).  
+- Diagnosis: metabolic alkalosis via elevated serum bicarbonate & pH; caused by loss of acid or retention of bicarbonate.  
+
+- Laboratory evaluation: urine chloride concentration critical for diagnosis.  
+- Hypokalemia occurs due to aldosterone elevation & renal bicarbonate loss.  
+- Bartter syndrome & Gitelman syndrome: present with hypokalemic alkalosis & urine chloride >15 mEq/L; not applicable here.  
+- Chronic hypertension may mask hypovolemia; patients can present with normal/high blood pressure despite volume contraction.  
+
+- Clinical pitfalls: misdiagnosing metabolic alkalosis due to low urine chloride as mineralocorticoid excess disorders; overlooking chronic hypertension in hypovolemic patients.
+
+
+
+
+
+{Management of End-Stage Kidney Disease with Dialysis}  
+- Late presentation of end-stage kidney disease (ESKD) must be part of the differential diagnosis for acute kidney injury.  
+- Small (<10 cm) echogenic kidneys on ultrasound are indicative of advanced chronic kidney disease (CKD).  
+
+- Initiation of dialysis is the most appropriate management for symptoms of uremia & severe metabolic acidosis.  
+- History & physical exam may not distinguish between acute & chronic kidney disease; ultrasound is key.  
+- Rapid volume challenge (IV 0.9% saline) is contraindicated in ESKD due to risk of heart failure.  
+- High-dose glucocorticoids (e.g., methylprednisolone) are ineffective in advanced CKD; indicated only in acute glomerulonephritis.  
+- Percutaneous kidney biopsy is not practical in small echogenic kidneys & has increased bleeding risk.  
+
+Potential Serious Clinical Pitfalls:  
+- Misdiagnosing ESKD as acute kidney injury can delay appropriate treatment.  
+- Administering IV fluids in ESKD patients may exacerbate heart failure.  
+- Inappropriate use of glucocorticoids in advanced CKD can lead to unnecessary complications.  
+- Performing kidney biopsy in patients with small kidneys increases risk of bleeding without benefit.
+
+
+
+
+
+{Adjusting Antihypertensive Medication Regimen}  
+- Maximize medication dose before adding another agent or add another agent before maximizing the dose.  
+- Use drugs from different classes to avoid reduced efficacy & potential harm.  
+
+- Amlodipine (CCB) is the best option for additional treatment if BP is not at target (<130/80 mm Hg).  
+- Two drugs from the same BP control system (e.g., ACEi + ARB) increase cardiovascular & renal risk.  
+- Titrating from 50% to 100% of maximum dose yields diminishing returns in BP lowering & increases side effects.  ***
+- Long-acting agents with once-daily dosing improve adherence compared to thrice-daily medications.  
+- Combining thiazide diuretics does not enhance BP control & risks hypokalemia; different mechanism diuretics can be effective.  
+
+Potential Serious Clinical Pitfalls:  
+- Combining renin-angiotensin system blockers can lead to increased cardiovascular & renal risks.  
+- Increasing doses may reduce adherence due to side effects.  
+- Using multiple thiazide diuretics does not improve BP control.
+
+
+
+
+
+{Diagnosing Nephrolithiasis During Pregnancy}  
+- Ultrasonography is the preferred initial diagnostic test for nephrolithiasis in pregnant patients.  
+- MRI can be used, but is not optimal for kidney stones; ultrasonography is preferred.  
+
+- Ultrasonography is safe, inexpensive, & avoids radiation exposure.  
+- Noncontrast helical abdominal CT is more sensitive but contraindicated in pregnancy due to radiation.  
+- Plain abdominal radiography has limited utility & should be avoided in pregnancy.  
+- A positive ultrasound may suffice for diagnosis in typical presentations; more complex cases require further evaluation.  
+- Ureteroscopy is invasive & not indicated for diagnosis; it’s used for management of stones.  
+
+Potential Serious Clinical Pitfalls:  
+- Relying on CT in pregnant patients can lead to harmful radiation exposure.  
+- Misinterpreting nondiagnostic ultrasound results may delay appropriate management.  
+- Failing to consider stone composition can impact treatment choices.
+
+
+
+
+
+{Tumor Lysis Syndrome and Acute Kidney Injury}  
+- TLS can occur spontaneously in acute leukemia/high-grade lymphoma patients.  
+- Characterized by acute kidney injury, severe hyperuricemia, hyperphosphatemia, hypocalcemia.  
+- Prompt isotonic volume expansion + rasburicase is crucial for treatment.  
+
+- Rasburicase rapidly lowers serum urate levels by converting urate to more soluble allantoin.  
+- Allopurinol prevents new urate formation but does not quickly lower existing levels.  ***
+- Febuxostat is less effective than rasburicase for rapid urate reduction; used when allopurinol is contraindicated.  ***
+- Urinary alkalinization's role is controversial; it can precipitate calcium phosphate.  
+
+- Serious complications: cardiac arrhythmias, seizures, death due to electrolyte imbalances.  
+- TLS is most common in highly proliferative hematologic malignancies; early recognition & management are key.
+
+
+
+
+
+{Nephrolithiasis Imaging Evaluation}  
+- Noncontrast helical abdomen & pelvis CT (Option D) = most sensitive imaging test for nephrolithiasis.  
+- Sensitivity > 95% for diagnosing nephrolithiasis; detects stones independent of composition (except indinavir crystals).  ***
+
+- IVP (Option A) = no role in kidney stone evaluation; high sensitivity for hydronephrosis but lower than noncontrast CT.  
+- Kidney ultrasonography (Option B) = sensitivity 50%-90%; less accurate for small stones & ureteral stones; preferred if CT is unavailable or in pregnancy.  
+- Radiography (Option C) = poor sensitivity/specificity; cannot detect radiolucent uric acid stones; useful for monitoring stone movement & growth.  
+
+- Pitfall: Relying on IVP = missing nephrolithiasis diagnosis; ultrasound may miss small/ureteral stones; radiography cannot determine calcification location.
+
+
+
+
+
+{Metabolic Acidosis in Chronic Kidney Disease}  
+- Sodium bicarbonate supplement is the appropriate treatment for metabolic acidosis in CKD.  
+- Initiate bicarbonate therapy when serum bicarbonate <22 mEq/L (22 mmol/L).  ***
+
+- Repletion of bicarbonate can slow CKD progression & reduce mortality.  
+- Bicarbonate can be administered as tablets, powder (baking soda), or through a diet rich in fruits/vegetables.  
+- ESAs should be used cautiously; only for hemoglobin <10 g/dL (100 g/L) & symptomatic.  
+- Hemodialysis is not indicated until advanced stage G5 CKD with uremic symptoms.  
+- A high-protein diet increases daily acid load & worsens metabolic acidosis.  ***
+
+**Potential Serious Clinical Pitfalls:**  
+- ESAs have FDA black box warnings for increased mortality, thromboembolic events, & serious cardiovascular risks.  
+- Avoid hemodialysis initiation based on CKD stage alone; monitor for uremic symptoms.  
+- Mismanagement of dietary protein can exacerbate metabolic acidosis.
+
+
+
+
+
+Thin Glomerular Basement Membrane Disease  
+- Inheritance: autosomal dominant  
+- Causes: inherited type IV collagen abnormality → thinning of GBM → hematuria (usually no proteinuria or abnormal kidney function)  
+
+Additional Clinically Relevant Info:  
+- Prevalence: affects up to 5% of the population  
+- Family History: ~50% report family history of hematuria without kidney failure  
+- Onset: hematuria can be microscopic/macroscopic; first manifests in young adulthood  
+- Diagnosis: can be made via kidney biopsy, but not usually required if clinical/family history is strong  
+- Genetic testing: may aid in diagnosis  
+
+Potential Serious Clinical Pitfalls:  
+- Misdiagnosis as other conditions (e.g., Alport syndrome, Fabry disease) due to overlapping symptoms  
+- Over-reliance on kidney biopsy when clinical history is sufficient  
+- Failure to recognize familial patterns leading to delayed diagnosis
+
+
+
+
+
+Hypertension Management in Older Adults  
+- SBP goal for patients ≥65: <130 mm Hg (ACC/AHA) vs <150 mm Hg (ACP/AAFP).  
+- High-risk patients >60: consider SBP <140 mm Hg to reduce stroke/cardiac events.  
+
+- Chlorthalidone = preferred second-line agent; works by different mechanism than first-line.  
+- ACE inhibitor/ARB combos not recommended; α-blockers (e.g., prazosin) are less effective.  
+- No evidence of superiority among antihypertensives for patients with PAD.  
+
+- Continuing current therapy may increase cardiovascular event risk in older patients.  
+- SBP reduction to <130-140 mm Hg likely exceeds harms in high-risk older adults.  
+
+Potential Serious Clinical Pitfalls:  
+- Switching from lisinopril to ramipril lacks evidence of benefit.  
+- Ignoring individual risk factors may lead to inadequate management of hypertension.  
+- Overlooking the need for a second agent in high-risk patients could result in adverse outcomes.
+
+
+
+
+
+{Diagnosis of Membranous Nephropathy}  
+- Serologic testing for anti-PLA2R antibodies → nearly 100% specificity for primary membranous nephropathy.  
+- Anti-PLA2R testing can eliminate the need for kidney biopsy in patients with preserved kidney function & no evidence of secondary causes.  
+- Patients with nephrotic syndrome & venous thromboembolism likely have membranous nephropathy; thrombotic complications occur in up to 25% of cases.  
+
+- Risk for clotting ↑ when serum albumin <2.8 g/dL; increases proportionally with decreasing albumin levels.  
+- ANCA-associated vasculitis presents with rapidly progressive glomerulonephritis; not applicable here due to absence of rapid decline in kidney function & urine microscopy findings.  
+- Anti-dsDNA antibodies → specific for lupus; normal complement & negative ANA testing rule out lupus nephritis as a secondary cause.  
+- Kidney biopsy in patients with venous thromboembolism is high risk; anti-PLA2R testing should be prioritized.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Misdiagnosing ANCA-associated vasculitis due to absence of characteristic findings.  
+- Delaying diagnosis by performing unnecessary kidney biopsy in high-risk patients.  
+- Failing to recognize the thrombotic risk associated with low serum albumin levels.
+
+
+
+
+
+{Hypophosphatemia}  
+- Ferric carboxymaltose can cause transient hypophosphatemia, even after a single dose.  
+- Risk factors for severe hypophosphatemia: vitamin D deficiency, malnutrition, GI disease, medications binding phosphorus.  
+
+- Mechanism: Increased FGF-23 -> phosphaturia & decreased 1-hydroxylation of vitamin D.  
+- Other causes of hypophosphatemia: hungry bone syndrome, refeeding syndrome, oncogenic osteomalacia, X-linked hypophosphatemic rickets.  
+- Low phosphorus diet does not typically cause hypophosphatemia; renal wasting indicated by high fractional excretion of phosphorus.  
+- Metabolic acidosis has minimal effect on phosphorus levels; does not cause hypophosphatemia.  
+- Prednisone does not typically cause hypophosphatemia despite its effects on muscle & vitamin D metabolism.  
+
+**Potential serious clinical pitfalls:**  
+- Misattributing hypophosphatemia to dietary intake when renal wasting is present.  
+- Overlooking risk factors in patients receiving ferric carboxymaltose.  
+- Confusing metabolic acidosis with respiratory alkalosis without proper assessment.
+
+
+
+
+
+{Primary Hyperaldosteronism Management}  
+- Eplerenone therapy is the next step for resistant hypertension with confirmed primary hyperaldosteronism.   
+- Plasma aldosterone concentration/plasma renin activity ratio >20 + aldosterone ≥15 ng/dL indicates primary aldosteronism.  
+
+
+ low bp-> renin->activates angiotensin -> inc aldosterone
+https://img.grepmed.com/uploads/3488/secondary-hyperaldosteronism-comparison-table-mimics-original.png 
+
+- Bilateral adrenal vein sampling (AVS) distinguishes unilateral adenoma from bilateral hyperplasia; not indicated if surgical management is not pursued.  
+- Diffuse bilateral adrenal hyperplasia accounts for ~66% of primary hyperaldosteronism cases.  
+- CT is preferred over MRI for adrenal gland assessment due to superior spatial resolution.  
+- Oral sodium loading test confirms autonomous aldosterone secretion but requires blood pressure control & hypokalemia correction first.  
+
+- **Clinical Pitfalls:**  
+  - Avoid adrenal vein sampling if the patient is not a surgical candidate.  
+  - Initiating oral sodium loading prematurely can lead to inaccurate results.
+
+
+
+
+
+{mixed acid-base disorder diagnosis}  
+- Identify the likely dominant acid-base disorder first.  
+- Assess the compensatory response to determine if a mixed disorder is present.  
+
+- pH of 7.4 suggests mixed acid-base disorder; normal pH with abnormal bicarbonate indicates this.  
+- PCO2 of 27 mm Hg indicates respiratory alkalosis; expected metabolic compensation is a decrease in bicarbonate by 4-5 mEq/L for each 10 mm Hg decrease in PCO2.  
+- Expected bicarbonate range: 17.5-18.8 mEq/L; patient's bicarbonate is 16 mEq/L, indicating concurrent normal gap metabolic acidosis.  
+- Anion gap of 7 is normal (8.0-10 mEq/L), ruling out increased anion gap metabolic acidosis.  
+
+- Clinical pitfalls:  
+  - Misinterpreting normal pH as absence of disorder; it may indicate mixed disorder.  
+  - Overlooking concurrent metabolic acidosis when bicarbonate is lower than expected compensatory levels.  
+  - Confusing respiratory alkalosis with chronic compensation without recognizing additional metabolic acidosis.
+
+
+
+
+
+{Hepatitis C Virus Infection and Cryoglobulinemic Glomerulonephritis}  
+- HCV infection is linked to cryoglobulinemic glomerulonephritis.  
+- Treatment involves direct-acting antiviral drugs.  
+
+- Most appropriate viral study: HCV antibody testing → if positive, measure viral load & genotyping.  
+- Clinical presentation: purpuric rash, low complement levels, positive rheumatoid factor, positive cryoglobulins.  
+- Biopsy likely reveals membranoproliferative glomerulonephritis (MPGN).  
+- Cryoglobulinemia types: Type I = monoclonal Ig (usually IgM); Type II & III = mixed cryoglobulinemia (polyclonal IgG & monoclonal/polyclonal IgM).  
+- Mixed cryoglobulinemia is common with HCV, cutaneous symptoms in 70%-90% of patients.  
+- Peripheral neuropathy (60%), arthritis (40%), glomerulonephritis (40%) are common manifestations.  
+- Global HCV prevalence: 2%-3%, but >10% in Egypt.  
+
+- Potential serious clinical pitfalls:  
+  - Hepatitis A, B, and HIV infections are not associated with cryoglobulinemic glomerulonephritis.  
+  - Misdiagnosing nephritic syndrome as HBV or HIV-related glomerular diseases can lead to inappropriate treatment.
+
+
+
+
+
+{Management of Hypertension in Chronic Kidney Disease}  
+- Sodium retention & volume overload contribute to hypertension in CKD.  
+- Loop diuretics (e.g., furosemide) preferred over thiazides when eGFR <20-30 mL/min/1.73 m².  
+- Dietary sodium restriction <2000 mg/d is essential for BP control in advanced CKD.  
+
+- Hydrochlorothiazide ineffective in advanced CKD; elevated BP & edema indicate need for change.  
+- Eplerenone & other potassium-sparing diuretics are weaker diuretics; risk of hyperkalemia when combined with ACE inhibitors.  
+- BP goal for adults with CKD & hypertension: <130/80 mm Hg (ACC/AHA guidelines).  
+- Higher diuretic doses needed due to decreased GFR in CKD patients.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Continuing ineffective treatment (e.g., hydrochlorothiazide) can worsen BP, edema, & hyperkalemia.  
+- Dual renin-angiotensin system inhibition increases serum potassium risk.  
+- Not addressing sodium retention may lead to inadequate BP control.
+
+
+
+
+
+{Proteinuria Evaluation}  
+- Significant proteinuria detected via urine protein-creatinine ratio while urine dipstick or UA are negative -> suggests nonalbumin proteinuria.  
+- Nonalbumin proteinuria may include low-molecular-weight proteins, monoclonal immunoglobulins/light chains, myoglobin, & hemoglobin.  
+
+- Urine protein electrophoresis is the most appropriate next test for diagnosis.  
+- Discrepancy between urine dipstick & protein-creatinine ratio raises concern for nonalbumin proteins.  
+- Normocytic, normochromic anemia may indicate multiple myeloma; further testing is warranted.  
+- Traditional 24-hour urine collection is less feasible; random urine protein/creatinine ratios are preferred for quantification.  
+- Sulsosalicylic acid test detects nonalbumin proteins but does not specify types present.  
+- Urine albumin-creatinine ratio measures only albumin, not helpful for identifying nonalbumin proteins.  
+
+Potential Serious Clinical Pitfalls:  
+- Failure to investigate significant proteinuria may lead to missed diagnosis of serious conditions like multiple myeloma.  
+- Relying solely on urine dipstick can underestimate nonalbumin proteinuria.  
+- Not performing urine protein electrophoresis could delay appropriate treatment.
+
+
+
+
+
+{Rhabdomyolysis and Hyperphosphatemia}  
+- Hyperphosphatemia often due to chronic kidney disease (CKD) or acute kidney injury (AKI).  
+- Rhabdomyolysis & tumor lysis syndrome cause acute serum phosphate elevation due to cellular damage.  
+
+- Atorvastatin-induced rhabdomyolysis (risk <0.1%) can lead to hyperphosphatemia; evidenced by elevated creatine kinase (CK).  
+- Phosphate is primarily intracellular; widespread cellular damage increases serum phosphate, especially with decreased GFR.  
+- Insulin deficiency can lead to hyperphosphatemia but often results in hypophosphatemia due to hyperphosphaturia from osmotic diuresis.  
+- Vitamin D toxicity causes hyperphosphatemia with elevated calcium levels, which are absent in this patient.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Misattributing hyperphosphatemia solely to CKD with mild dysfunction.  
+- Overlooking statin-induced myopathy as a cause of elevated CK and phosphate levels.  
+- Failing to recognize that phosphate-containing cathartics can cause acute elevations, especially with reduced GFR.
+
+
+
+
+
+{Renal Vein Thrombosis (RVT)}  
+- RVT is a complication of nephrotic syndrome, most commonly with membranous nephropathy (MN).  
+- Preferred imaging for suspected RVT in acute kidney injury (AKI) or GFR <30 mL/min/1.73 m² is renal ultrasonography with Doppler.  
+
+- Gold standard for RVT diagnosis is selective renal venography, but less invasive tests are preferred.  
+- Anti–phospholipase receptor A2 antibodies are found in ~70% of MN patients; not useful for AKI diagnosis.  
+- FENa <1% indicates prerenal AKI; however, can be elevated in other conditions. FENa >2% suggests acute tubular necrosis.  
+- RVT may be asymptomatic; hematuria & flank pain are common but not definitive.  
+
+**Potential serious clinical pitfalls:**  
+- Relying solely on FENa can mislead diagnosis due to overlapping conditions.  
+- Avoid contrast exposure in AKI patients when considering renal venography.  
+- Asymptomatic RVT may be overlooked despite high suspicion.
+
+
+
+
+
+Manage hemodialysis line–related sepsis  
+- Tunneled catheters should be removed immediately for severe sepsis, metastatic infection, exit-site/tunnel infection, persistent fever, or bacteremia despite antibiotics.  
+- Antibiotic lock therapy (vancomycin &/or ceftazidime) is an alternative for stable patients with less virulent organisms (e.g., Staphylococcus epidermitis).  
+
+Additional clinically relevant info:  
+- Infection = 2nd leading cause of death in end-stage kidney disease (ESKD) patients.  
+- Patients with ESKD are at increased risk due to chronic inflammation & frequent healthcare exposure.  
+- Tunneled catheters increase bacteremia risk; empiric antibiotics should be given while awaiting blood cultures.  
+- AVF excision is not indicated; AVFs have the lowest infection risk compared to grafts & catheters.  
+- Catheter exchange over a guidewire may be considered for stable patients without tunnel infection or if bacteremia clears within 48 hours.  
+
+Potential serious clinical pitfalls:  
+- Attempting catheter salvage in severe sepsis or with Staphylococcus aureus infections can worsen outcomes.  
+- Mismanagement of tunneled catheters can lead to increased morbidity & mortality in vulnerable patients.  
+- Delaying catheter removal in the presence of severe infection increases the risk of complications.
+
+
+
+
+
+{Gitelman Syndrome}  
+- Patients typically present in late adolescence or early adulthood.  
+- Characterized by low-normal blood pressure, hypokalemic metabolic alkalosis, hypomagnesemia, & high-normal serum calcium levels.  
+
+    |      |-- Surreptitious Vomiting
+    |      |      |-- Similar features to Gitelman Syndrome
+    |      |      |-- Low urine chloride
+    |      |      |-- Urine calcium excretion not low
+
+
+- Autosomal recessive disorder affecting sodium chloride transporter in distal tubule.  
+- Low urine calcium excretion is common; urine diuretic screen is negative.  
+- Differential diagnosis includes Bartter syndrome, laxative abuse, & primary hyperaldosteronism.  
+- Bartter syndrome presents in early childhood, has normal/increased urine calcium, & is less common.  
+- Primary hyperaldosteronism typically presents with hypertension; low blood pressure excludes this diagnosis.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Misdiagnosing Gitelman syndrome as laxative abuse due to metabolic alkalosis.  
+- Confusing with primary hyperaldosteronism despite low blood pressure.  
+- Overlooking urine chloride levels in cases of surreptitious vomiting.
+
+
+
+
+
+Prevent cardiovascular events in a patient with chronic kidney disease.  
+- Statins reduce cardiovascular events in CKD but do not slow CKD progression.  
+- High-intensity atorvastatin is the preferred treatment for ASCVD risk reduction in CKD patients.  
+
+- ACC/AHA recommends moderate-intensity statin for patients aged 40-75 years with diabetes; high-intensity if risk modifiers present (e.g., albuminuria ≥30 mcg/mg creatinine or eGFR <60 mL/min/1.73 m²).  
+- ADA endorses high-intensity statin therapy for diabetes patients with ASCVD risk factors.  
+- KDIGO recommends statin therapy for all patients >40 years with non-dialysis CKD.  
+- Atorvastatin is favored due to hepatic clearance & no renal dose adjustments; may reduce proteinuria.  
+
+**Potential serious clinical pitfalls:**  
+- Evolocumab & ezetimibe not indicated for this patient.  
+- Moderate-intensity rosuvastatin insufficient & may increase kidney injury risk in severe CKD.
+
+
+
+
+
+{Hepatitis C Virus Infection and Membranoproliferative Glomerulonephritis}  
+- Immune complex MPGN is linked to infectious, autoimmune, or malignancy-associated causes.  
+- HCV infection is the most common infectious cause of immune complex MPGN.  
+
+- Risk factors for HCV include transactional sex & IV drug use.  
+- Kidney biopsy shows immune complex deposition (IgG, IgM, IgA + C1q/C3) on immunofluorescence.  
+- Treatment involves anti-HCV antiviral therapy & potential immunosuppression (glucocorticoids + rituximab).  
+- C3 glomerulopathies (rare) show isolated C3 staining, indicating alternative complement pathway activation.  
+
+- Potential clinical pitfalls: Misdiagnosing HCV-related MPGN as C3 glomerulopathy could lead to unnecessary genetic testing.
+
+
+
+
+
+{Symptomatic Hyponatremia Treatment}  
+- Initial treatment: acutely increase serum sodium by 3-4 mEq/L (3-4 mmol/L) with 3% saline infusion.  
+- Simultaneous desmopressin + 3% saline = more predictable & safer increase in serum sodium.  
+
+- Determine if hyponatremia is acute (<48 hrs) or chronic (>48 hrs); treat chronic if duration unknown.  
+- Rapid correction >8 mEq/L (8 mmol/L) in 24 hrs = increased risk of osmotic demyelination syndrome (ODS).  
+- Monitor serum sodium every 2 hrs during treatment; administer either 100-mL bolus or 30 mL/h of 3% saline.  
+- Fluid restriction alone is inadequate for symptomatic patients; aim to improve symptoms & prevent complications.  
+- 0.9% saline may worsen hyponatremia in SIADH due to water retention.  
+- Tolvaptan is contraindicated in symptomatic hyponatremia due to unpredictable response.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Overly rapid correction of serum sodium can lead to ODS.  
+- Failure to recognize chronic hyponatremia can result in inadequate treatment.  
+- Inappropriate use of fluid restriction or 0.9% saline can worsen the condition.
+
+
+
+
+
+{Screening for Albuminuria in Hypertension Management}  
+- Direct quantification of albuminuria is essential in high-risk patients; dipstick urinalysis may miss moderately increased albuminuria.  
+- First-line treatment for hypertension in diabetes patients with urine albumin-creatinine ratio >300 mg/g is an ACE inhibitor or ARB at max tolerated dose.  ***
+
+- ACC/AHA BP guideline: BP goal <130/80 mm Hg for diabetes patients.  
+- ADA recommends BP target <130/80 mm Hg for diabetes & hypertension with high cardiovascular risk (ASCVD ≥15%); target 140/90 mm Hg if ASCVD <15%.  
+- ACE inhibitors/ARBs indicated for patients with hypertension, diabetes, & urine albumin-creatinine ratio ≥30 mg/g; >300 mg/g is a clear indication for treatment.  
+
+- Serious clinical pitfalls:  
+  - Relying solely on dipstick urinalysis can lead to mismanagement.  
+  - Inadequate follow-up timing; BP should be remeasured in 1 month, not 3 months.  
+  - Nonpharmacologic therapy alone is insufficient for stage 2 hypertension management.
+
+
+
+
+
+{Diagnosing Alcoholic Ketoacidosis}  
+- Alcoholic ketoacidosis = increased anion gap metabolic acidosis & minimal ketones on urine dipstick.  
+
+- Ethanol metabolism -> NADH ↑, leads to ketone production (acetoacetate & β-hydroxybutyrate).  
+- Nitroprusside reagent detects acetoacetate only -> urine tests may be falsely negative.  
+- Direct measurement of β-hydroxybutyrate levels may be necessary for definitive diagnosis.  
+
+- Ethylene glycol & methanol toxicities = plasma osmolal gap >10 mOsm/kg H2O; this patient = gap of 3 mOsm/kg H2O.  
+- Isopropyl alcohol metabolized to acetone -> ketosis but not acidosis; no osmolal gap present in this case.  
+
+- Clinical pitfalls:  
+  - Low or absent serum ethanol levels may occur by time of evaluation.  
+  - Misdiagnosis due to false-negative urine ketone tests.  
+  - Overlooking other toxicities (ethylene glycol, methanol) without osmolal gap.
+
+
+
+
+
+{Management of Advanced Chronic Kidney Disease with Non-Dialytic Palliative Therapy}  
+- Goal of non-dialytic palliative therapy: prolong comfort & functioning in ESKD patients.  ***
+- Intensify hypertension management is the most appropriate intervention for this patient.  
+
+- Older patients with ESKD & comorbidities may gain minimal lifespan from aggressive treatments.  
+- Non-dialytic medical therapy avoids dialysis burdens & reduces hospitalizations vs. hemodialysis in older patients.  
+- Blood pressure target: <140 mm Hg for older patients with a history of stroke.  ***
+- Serum phosphorus levels should be normal before considering phosphate binders.  
+- Hospice care may be indicated later as chronic kidney disease progresses.  
+
+Potential Serious Clinical Pitfalls:  
+- Discontinuing all medications other than insulin contradicts non-dialytic medical management philosophy.  
+- Failing to manage hypertension effectively can lead to complications in patients with a stroke history.  
+- Misjudging the patient's need for hospice care may delay appropriate end-of-life support.
+
+
+
+
+
+{Urothelial Cancer Screening in Patients with Hematuria and Aristolochic Acid Nephropathy}  
+- Herbal medications containing aristolochic acid can lead to nephropathy & increase urothelial cancer risk.  
+- CT urography & cystoscopy with retrograde pyelography are key tests for hematuria & urothelial cancer risk.  
+
+- Chronic tubulointerstitial nephritis (CTIN) is linked to prolonged use of herbal medications, especially from China.  
+- Young patients without risk factors may only need observation after ruling out stones, renal masses, & infections for a single hematuria episode.  
+- MRI is not the gold standard for lower urinary tract evaluation; CT is preferred for renal masses.  
+- Renal angiography is a last resort for unexplained persistent gross hematuria.  
+
+Potential Serious Clinical Pitfalls:  
+- Failing to consider herbal medication use in patients with CTIN may overlook urothelial cancer risk.  
+- Misinterpreting imaging results could lead to unnecessary procedures or missed diagnoses.  
+- Not recognizing the significance of hematuria in young patients with a history of herbal medication use may delay proper management.
+
+
+
+
+
+{infection-related glomerulonephritis}  
+- Treatment is primarily supportive & targets the infectious cause.  
+- Nafcillin is the most appropriate treatment for IRGN.  
+
+- Diabetes mellitus is the most common comorbidity; older age (>65 years) is a key risk factor.  
+- Prognosis is excellent in children; adults with Staphylococcus aureus & gram-negative IRGN have less favorable outcomes.  
+- ACE inhibitors (e.g., lisinopril) are not recommended during acute kidney injury but can be considered for proteinuric CKD later.  
+- Glucocorticoids (e.g., prednisone) are rarely indicated unless severe proliferative glomerulonephritis is present.  
+- Diuretics & sodium restriction are indicated only with hypertension & edema; not applicable in this patient.  
+
+Potential serious clinical pitfalls:  
+- Initiating ACE inhibitors during acute kidney injury can worsen function.  
+- Overlooking the need for supportive care targeting the infectious etiology may lead to poor outcomes.  
+- Misdiagnosing severity of glomerular lesions can lead to inappropriate treatment decisions.
+
+
+
+
+
+Preeclampsia is defined as new-onset hypertension with proteinuria (≥300 mg/24 h or a urine protein-creatinine ratio ≥300 mg/g) after 20 weeks of pregnancy.
+Preeclampsia can be diagnosed in pregnant patients without proteinuria if hypertension is accompanied by evidence of other end-organ damage (thrombocytopenia, kidney dysfunction, liver dysfunction, pulmonary edema, cerebral or visual symptoms).
+
+
+
+
+
+{Evaluation of Kidney Function with Serum Cystatin C}  
+- Serum cystatin C is more sensitive for detecting mild kidney function decrements vs. serum creatinine.  
+- Serum creatinine levels can be misleading due to variations in muscle mass, especially in older adults.  
+
+- Increased muscle mass -> elevated serum creatinine; decreased muscle mass -> lower creatinine without GFR change.  
+- Serum cystatin C is less influenced by age, sex, muscle mass, & body weight; provides a reliable GFR index.  
+- Blood urea nitrogen (BUN) is an unreliable kidney function marker due to variable production & reabsorption.  
+- Creatinine clearance via 24-hour urine collection can overestimate GFR & is prone to collection errors.  
+- Radionuclide imaging is the gold standard for GFR measurement but is unnecessary if serum cystatin C is available.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Misinterpretation of serum creatinine due to muscle mass variations can lead to inappropriate clinical decisions.  
+- Reliance on BUN can result in underestimating or misjudging kidney function.  
+- Errors in 24-hour urine collection can compromise GFR estimation.
+
+
+
+
+
+Renal AL Amyloidosis  
+- Gold standard for diagnosis = apple-green birefringence with Congo red stain under polarized light.  
+- Most common form = AL amyloidosis (60%-65% of cases) derived from monoclonal immunoglobulin light chains.  
+
+Additional Clinically Relevant Info:  
+- Kidney involvement common in systemic amyloidosis.  
+- Typical presentation = nephrotic-range proteinuria + renal insufficiency; nephrotic syndrome in 25%-50% of patients.  
+- AL amyloidosis typically affects patients >50 years old, predominantly men.  
+- Serum/urine protein electrophoresis + immunofixation identify monoclonal protein; serum free light chain quantification is more sensitive.  
+- All three testing modalities usually checked simultaneously.  
+
+Potential Serious Clinical Pitfalls:  
+- Diabetic kidney disease typically >10 years of type 2 diabetes; absence of microvascular/macrovascular complications suggests need for biopsy.  
+- IgA nephropathy usually in youth/early adulthood; older patients with nephrotic syndrome unlikely to have IgAN.  
+- Membranous nephropathy has preserved kidney function; diagnosis may be missed if relying solely on biopsy without serologic testing.
+
+
+
+
+
+{Minimal Change Glomerulopathy with Acute Kidney Injury}  
+- Classic presentation: sudden-onset nephrotic syndrome -> abrupt edema & anasarca.  
+- Up to 25% of adults with minimal change glomerulopathy (MCG) may have acute kidney injury (AKI).  
+
+**Additional Clinically Relevant Information:**  
+- MCG accounts for 10%-15% of nephrotic syndrome cases in adults, especially in older patients (≥65 years).  
+- Risk factors for AKI in MCG: older age, hypertension, low serum albumin, heavy proteinuria.  
+- Urinalysis findings in this patient are typical of nephrotic syndrome, not glomerulonephritis (e.g., ANCA-associated glomerulonephritis shows hematuria & subnephrotic proteinuria).  
+- Membranous nephropathy usually causes AKI via renal vein thrombosis; Doppler ultrasound did not show this in the patient.  
+- Edema onset in membranous nephropathy is slower than in MCG.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Misdiagnosing MCG as ANCA-associated glomerulonephritis or anti–glomerular basement membrane disease due to AKI presentation.  
+- Overlooking renal vein thrombosis in membranous nephropathy when evaluating AKI.  
+- Failing to recognize the risk of AKI in older patients with MCG, leading to delayed management.
+
+
+
+
+
+Autosomal Dominant Polycystic Kidney Disease (ADPKD) Treatment with Tolvaptan  
+- Tolvaptan slows kidney function decline in adults at risk for progressive ADPKD.  
+- FDA approved in 2018 for adults with specific risk factors for end-stage kidney disease (ESKD).  
+
+Additional Clinically Relevant Information:  
+- 4 risk factors for ESKD:  
+  1. Hypertension onset <35 years  
+  2. Urologic events <35 years (e.g., gross hematuria, cyst infection)  
+  3. eGFR decrease >5 mL/min/1.73 m² in 1 year  
+  4. Family history of ESKD at or before 58 years  
+- Other risk factors: male sex, total kidney volume > expected for age, truncating PKD1 variant.  
+- Renin-aldosterone system blockade is a staple treatment; ACE inhibitors are effective.  
+- Total kidney volume measurement is important but not necessary for high-risk patients; can start tolvaptan directly.  
+- Octreotide reduces cyst fluid but does not slow kidney function decline like tolvaptan.  
+
+Potential Serious Clinical Pitfalls:  
+- Switching from ACE inhibitor to angiotensin receptor blocker (e.g., telmisartan) may not benefit patient already at goal blood pressure.  
+- Failure to recognize high-risk patients may delay appropriate tolvaptan therapy.  
+- Misunderstanding the role of total kidney volume in risk assessment could lead to unnecessary imaging.
+
+
+
+
+
+{Primary Hyperaldosteronism as a Cause of Secondary Hypertension}  
+- Most common cause of secondary hypertension.  
+- Suspect in resistant hypertension, hypokalemia, family history of early-onset hypertension, BP >160/100 mm Hg, or stroke <40 years.  
+
+- Screening test: plasma aldosterone concentration/plasma renin activity ratio.  
+- Triad: resistant hypertension, metabolic alkalosis, hypokalemia common.  ***
+- Normal serum potassium levels may occur; high suspicion needed.  
+- Substantial hypokalemia (serum K+ 2.9 mEq/L) with low-dose thiazide use is significant.  
+
+- Pheochromocytoma less likely due to absence of palpitations, headaches, tachycardia.  
+- Renovascular disease unlikely without abdominal bruits or atherosclerosis signs.  
+- Hypercortisolism (Cushing syndrome) rare compared to primary hyperaldosteronism; absence of Cushingoid features makes it unlikely.  
+
+- Clinical pitfalls:  
+  - Normal serum potassium may mask diagnosis.  
+  - Overlooking primary hyperaldosteronism in patients with resistant hypertension.  
+  - Misdiagnosing conditions (pheochromocytoma, renovascular disease, Cushing syndrome) without adequate suspicion.
+
+
+
+
+
+{Management of Edema in Nephrotic Syndrome}  
+- Add metolazone (thiazide diuretic) to loop diuretics for refractory edema.  
+- Continuous IV infusion of loop diuretics has less ototoxicity vs. bolus injections, but no clear superiority in diuretic efficacy.  
+- Glucocorticoid therapy (prednisone) for FSGS should continue for at least 12-16 weeks before considering second-line therapy (cyclosporine).  
+
+- Factors for IV diuretics admission: lack of response to thiazide/potassium-sparing diuretics, acute respiratory symptoms from pulmonary edema, significant ascites.  
+- Hemodialysis with ultrafiltration is for anasarca, significant kidney dysfunction, & inability to diurese on maximal IV diuretics.  
+- Nephrotic-range proteinuria & hypoalbuminemia do not justify stopping prednisone after only 3 weeks of treatment.  
+
+**Potential Serious Clinical Pitfalls:**  
+- Prematurely considering glucocorticoid therapy refractory before 12-16 weeks.  
+- Not recognizing when to escalate to IV diuretics or hemodialysis.  
+- Mismanagement of diuretics can lead to electrolyte imbalances.
+
+
+
+
+
+{Crystal-induced acute kidney injury from intravenous acyclovir}  
+- IV acyclovir can cause acute kidney injury (AKI) due to intratubular obstruction from crystal precipitation.  
+- Correction of volume depletion is critical for prevention & treatment of crystal-induced AKI.  
+
+- Urinary findings: hematuria, pyuria, crystals.  
+- High-dose acyclovir therapy requires aggressive volume expansion, especially in patients with chronic kidney disease & volume depletion.  
+- Acute glomerulonephritis (Option A) is unlikely in this case due to hereditary nephritis not causing acute changes.  
+- Acute interstitial nephritis (AIN) typically takes 7-10 days to develop; classic presentation occurs in only 10%-30% of cases.  
+- Acute tubular necrosis (ATN) is suggested by pigmented brown casts, which are not present in this patient's urinalysis.  
+
+**Potential serious clinical pitfalls:**  
+- Failure to correct volume depletion can lead to severe AKI.  
+- Discontinuation of acyclovir may be necessary if AKI develops.  
+- Misdiagnosing AKI as AIN or ATN without considering crystal-induced obstruction can delay appropriate management.
+
+
+
+
+
+{Mycophenolate Mofetil and Pregnancy}  
+- Mycophenolate mofetil is teratogenic & contraindicated in pregnancy.  
+- Discontinue mycophenolate mofetil before conception; ensure stable disease for 3-6 months before pregnancy.  
+
+- Risks of mycophenolate mofetil: first-trimester pregnancy loss, fetal malformations (distal limbs, heart, esophagus, kidneys, cleft lip/palate).  
+- Hydroxychloroquine is safe in pregnancy; reduces disease flares & improves outcomes in SLE.  
+- Glucocorticoids (e.g., prednisone) can be continued if benefits > risks; monitor for adverse effects.  
+- Azathioprine is a safer alternative for immunosuppression during pregnancy.  
+
+- Potential serious clinical pitfalls:  
+  - Continuing mycophenolate mofetil during pregnancy can lead to severe fetal complications.  
+  - Failure to achieve disease stability before conception may result in adverse pregnancy outcomes.  
+  - Inadequate monitoring of glucocorticoid therapy may exacerbate preexisting conditions during pregnancy.
+
+
+
+
+
+{Sodium-glucose cotransporter 2 inhibitors in diabetic kidney disease}  
+- SGLT2 inhibitors slow CKD progression & reduce death risk from kidney/cardiovascular complications.  
+- Canagliflozin is the most appropriate treatment for patients with diabetic kidney disease & stage G3 CKD with nephrotic-range proteinuria.  
+
+- GLP-1 receptor agonists (e.g., liraglutide) may reduce cardiovascular event risk & slow CKD progression.  
+- Proven interventions for CKD: glycemic control, blood pressure control, RAS blockers, finerenone, avoidance of renal toxins.  
+- Dual blockade of RAS (ACE inhibitor + ARB) is contraindicated due to increased adverse events without added kidney benefit.  
+
+- Glyburide carries hypoglycemia risk in CKD; thiazolidinediones (e.g., pioglitazone) may cause fluid retention.  
+- Dipeptidyl peptidase 4 inhibitors (e.g., sitagliptin) have a neutral effect on CKD progression.  
+
+Potential serious clinical pitfalls:  
+- Avoid dual blockade with ACE inhibitors & ARBs.  
+- Monitor for hypoglycemia with sulfonylureas in CKD.  
+- Be cautious with thiazolidinediones due to fluid retention risks.
+
+
+
