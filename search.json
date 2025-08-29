@@ -5,14 +5,14 @@
       "title": "About this website",
       "author": [],
       "contents": "\r\nThe purpose of this web service is to provide a weekly one-stop concise summary for the articles published in the top journals in the listed fields.\r\nThe articles, in their most summarized format, are listed in a single page. By skimming through the page, the reader should have a reasonable familiarity with most of the key articles in the field of their choice for that week. A link to the publisher’s website is then provided to allow a convenient access to the abstract and possibly the full publication (if the user has access to). Open access articles are available through PMC (a link is provided when applicable).\r\nA link to Qx med is provided for each article where you can create an account to bookmark articles of interest for future reference. If you have an institutional subscription to Qx med, you can then access full text articles from the subscribed journals.\r\nMoreover, you can uses the embedded hypothesis.io interface to highlight and annotate the content of interest. Through the same service, you can create groups, share highlights with colleagues or even leave public comments or questions for the other website users to view and reply. Watch this 5 minutes video to learn more.\r\nQxmed and hypothesis.io are third party platforms that we incorporated within the website to improve the user experience.\r\nOur philosophy behind journals selection:\r\nWe identified the main sub domains in the field and picked the highest impact factor journals in each. We made sure we include the official journals for the key societies (eg ACG, AGA, EASL, AALSD, ESGE, ASGE, ANMS, CCF, etc…). For example, the main subdomains in gastroenterology are general gastroenterology, endoscopy, hepatology, inflammatory bowel diseases, motility and functional disorders. The top hepatology journals are hepatology and journal of hepatology, so they were included. The same approach was used for the other sub fields.\r\nWe understand that some valuable articles are published in some lower impact factor journals or general internal medicine journals and we will be working on including those in the future.\r\nAnyone is welcome to share this work, but please be mindful of the publishers and the authors copyright.\r\nPlease provide your feedback through the dedicated page.\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:05-04:00"
+      "last_modified": "2025-08-29T07:27:23-04:00"
     },
     {
       "path": "dbsearch.html",
       "title": "Database search",
       "author": [],
       "contents": "\r\nYou can use this page to search for articles listed in the website.\r\nUseful if you want to easily find an article you came across earlier.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:33-04:00"
+      "last_modified": "2025-08-29T07:27:41-04:00"
     },
     {
       "path": "feedback.html",
@@ -20,77 +20,77 @@
       "description": "Please provide suggestions related to the content or the website display. ",
       "author": [],
       "contents": "\r\nAnonymous feedback. No need to log in.\r\n\r\n\r\n\r\n\r\n\r\n\r\nApplause for positive reinforcement!\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:36-04:00"
+      "last_modified": "2025-08-29T07:27:43-04:00"
     },
     {
       "path": "genmed.html",
       "title": "General Internal Medicine",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:39-04:00"
+      "last_modified": "2025-08-29T07:27:45-04:00"
     },
     {
       "path": "gi.html",
       "title": "Gastroenterology and Hepatology",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:45-04:00"
+      "last_modified": "2025-08-29T07:27:47-04:00"
     },
     {
       "path": "gi2.html",
       "title": "Gastroenterology and Hepatology (2)",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:48-04:00"
+      "last_modified": "2025-08-29T07:27:49-04:00"
     },
     {
       "path": "hema.html",
       "title": "Hematology and Oncology",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:51-04:00"
+      "last_modified": "2025-08-29T07:27:51-04:00"
     },
     {
       "path": "hypoth.html",
       "title": "Hypothesis annotation extraction",
       "author": [],
       "contents": "\r\nUse this app to extract your hypothesis annotations, highlghts and/or comments as a standalone file in two different formats (bullet style summary or QA presentation).\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:54-04:00"
+      "last_modified": "2025-08-29T07:27:52-04:00"
     },
     {
       "path": "index.html",
       "title": "Skim-sci",
       "author": [],
       "contents": "\r\n\r\nGastroenterology & Hepatology\r\nGastroenterology & Hepatology-2\r\n(pancreatology, IBD, nutrition and liver transplant)\r\nGeneral Internal Medicine\r\nHematology & Oncology\r\nNephrology\r\nRheumatology\r\nCardiology\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:23:57-04:00"
+      "last_modified": "2025-08-29T07:27:54-04:00"
     },
     {
       "path": "neph.html",
       "title": "Nephrology",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:24:00-04:00"
+      "last_modified": "2025-08-29T07:27:56-04:00"
     },
     {
       "path": "qas.html",
       "title": "Summaries",
       "author": [],
       "contents": "\r\nSummary of selected articles in QA format.\r\nSemi-automated using NLP. Prone to errors! Please check the original articles as well.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:24:02-04:00"
+      "last_modified": "2025-08-29T07:27:58-04:00"
     },
     {
       "path": "rheum.html",
       "title": "Rheumatology",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:24:05-04:00"
+      "last_modified": "2025-08-29T07:27:59-04:00"
     },
     {
       "path": "updates.html",
       "title": "Updates",
       "author": [],
       "contents": "\r\n2022-02-04: Added clinical nutrition and liver transplant sub-domains to gastroenterology.\r\n2022-02-11: Added nephrology and hematology (need refinement).\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-08-29T07:24:06-04:00"
+      "last_modified": "2025-08-29T07:28:00-04:00"
     }
   ],
   "collections": ["genmed/genmed.json", "gi/gi.json", "gi2/gi2.json", "hema/hema.json", "neph/neph.json", "rheum/rheum.json"]
